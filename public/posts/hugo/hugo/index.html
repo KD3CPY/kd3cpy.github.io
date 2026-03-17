@@ -1,0 +1,707 @@
+<!doctype html>
+<html lang="en-us" class="h-full">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="en-us">
+<meta name="theme-color" content="#BD5FFF">
+<script>
+  
+  (function () {
+    const storedTheme = localStorage.getItem("theme");
+    const systemPrefersLight = window.matchMedia("(prefers-color-scheme: light)").matches;
+    const theme = storedTheme || (systemPrefersLight ? "light" : "dark");
+    document.documentElement.setAttribute("data-theme", theme);
+  })();
+  
+  (function(){var t=sessionStorage.getItem('mana_pt');if(t){document.documentElement.setAttribute('data-page-enter',t);sessionStorage.removeItem('mana_pt');}})();
+  
+  window.MANA_SEARCH_INDEX_URL = '\/index.json';
+  
+  window.MANA_LANG_PREFIXES = ['en'];
+</script>
+<title>Adventures with Hugo | A Little Ham Radio Site</title>
+<meta
+  name="description"
+  content="
+    What&rsquo;s past is prologue I&rsquo;ve had a number of different websites&mdash;handcoded (pre-CSS), self-hosted Movable Type and WordPress, hosted WordPress, …
+  
+  ">
+
+
+  <meta name="keywords" content="hugo">
+
+
+
+  <meta name="author" content="KD3CPY">
+
+
+
+<link rel="canonical" href="http://localhost:1313/posts/hugo/hugo/">
+
+
+<link rel="alternate" hreflang="en-us" href="http://localhost:1313/posts/hugo/hugo/"><link rel="alternate" hreflang="x-default" href="http://localhost:1313/posts/hugo/hugo/">
+
+
+<meta name="robots" content="index, follow">
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_us">
+<meta property="og:title" content="Adventures with Hugo | A Little Ham Radio Site">
+<meta property="og:description" content="What&rsquo;s past is prologue I&rsquo;ve had a number of different websites&mdash;handcoded (pre-CSS), self-hosted Movable Type and WordPress, hosted WordPress, …">
+<meta property="og:url" content="http://localhost:1313/posts/hugo/hugo/">
+<meta property="og:site_name" content="A Little Ham Radio Site"><meta property="article:published_time" content="2026-03-13T04:33:05-04:00">
+  <meta
+    property="article:modified_time"
+    content="2026-03-13T04:33:05-04:00"><meta property="article:section" content="hugo"><meta property="article:tag" content="hugo">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Adventures with Hugo | A Little Ham Radio Site">
+<meta name="twitter:description" content="What&rsquo;s past is prologue I&rsquo;ve had a number of different websites&mdash;handcoded (pre-CSS), self-hosted Movable Type and WordPress, hosted WordPress, …">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"KD3CPY"},"dateModified":"2026-03-13T04:33:05-04:00","datePublished":"2026-03-13T04:33:05-04:00","description":"What\u0026rsquo;s past is prologue I\u0026rsquo;ve had a number of different websites\u0026mdash;handcoded (pre-CSS), self-hosted Movable Type and WordPress, hosted WordPress, …","headline":"Adventures with Hugo","inLanguage":"en-us","keywords":["hugo"],"mainEntityOfPage":{"@id":"http://localhost:1313/posts/hugo/hugo/","@type":"WebPage"},"publisher":{"@type":"Organization","name":"A Little Ham Radio Site","url":"http://localhost:1313/"},"timeRequired":"PT9M","url":"http://localhost:1313/posts/hugo/hugo/","wordCount":1878}</script>
+
+
+
+  
+  
+  
+    
+  
+  
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"http://localhost:1313/","name":"Home","position":1},{"@type":"ListItem","item":"http://localhost:1313/posts/","name":"Posts","position":2},{"@type":"ListItem","item":"http://localhost:1313/posts/hugo/hugo/","name":"Adventures with Hugo","position":3}]}</script>
+
+
+
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+  href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+  rel="stylesheet"
+  media="print"
+  onload="this.media='all'">
+<noscript>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+    rel="stylesheet">
+</noscript>
+
+<link rel="stylesheet" href="/css/theme.min.29a2f04a9f41258e6c40c77a2b2be43ac8a3a9805c65165860d8b8ec5c442050.css">
+
+
+  <link
+    rel="stylesheet"
+    href="/css/syntax-dark.min.b01037e5609e6260b74d6fcdd6d5131e8dcbc4d46d6ef4bfbe5a60bdfc1a9f30.css"
+    id="syntax-dark-theme"
+    class="syntax-theme">
+  <link
+    rel="stylesheet"
+    href="/css/syntax-light.min.9602bc2fcef52b4c62e05eae14b48ba428e114f116e993e504d83ed5a3aeda98.css"
+    id="syntax-light-theme"
+    class="syntax-theme"
+    disabled><script>
+  
+  (function () {
+    const storedTheme = localStorage.getItem("theme");
+    const systemPrefersLight = window.matchMedia("(prefers-color-scheme: light)").matches;
+    const theme = storedTheme || (systemPrefersLight ? "light" : "dark");
+
+    const syntaxDark = document.getElementById("syntax-dark-theme");
+    const syntaxLight = document.getElementById("syntax-light-theme");
+
+    if (theme === "light") {
+      if (syntaxDark) syntaxDark.disabled = true;
+      if (syntaxLight) syntaxLight.disabled = false;
+    } else {
+      if (syntaxDark) syntaxDark.disabled = false;
+      if (syntaxLight) syntaxLight.disabled = true;
+    }
+
+    
+    const observer = new MutationObserver(() => {
+      const currentTheme = document.documentElement.getAttribute("data-theme");
+      if (currentTheme === "light") {
+        if (syntaxDark) syntaxDark.disabled = true;
+        if (syntaxLight) syntaxLight.disabled = false;
+      } else {
+        if (syntaxDark) syntaxDark.disabled = false;
+        if (syntaxLight) syntaxLight.disabled = true;
+      }
+    });
+
+    observer.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ["data-theme"],
+    });
+  })();
+</script>
+
+
+
+
+<link rel="stylesheet" href="/css/bundle.min.57d6410f7c0fffb9ad468070f9ab22cec491cb85b9a66f072e8cce12fe18b8e0.css">
+
+
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+
+<link rel="icon" type="image/png" href="/favicon.png">
+
+
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+
+
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/android-chrome-512x512.png">
+<link rel="manifest" href="/site.webmanifest">
+
+
+
+
+  
+
+
+
+
+  </head>
+  <body class="flex flex-col min-h-screen">
+    <a href="#main-content" class="skip-to-main" aria-label="Skip to main content"
+      >Skip to main content</a
+    >
+    <header class="sticky-header">
+      <div class="header-container">
+        <nav class="header-nav" role="navigation" aria-label="Main navigation">
+  <div class="header-content">
+    <div class="header-logo">
+      <a href="/" class="logo-link" aria-label="Home - A Little Ham Radio Site">
+        A Little Ham Radio Site
+      </a>
+    </div>
+
+    
+    <button 
+      id="mobile-menu-toggle" 
+      class="mobile-menu-toggle" 
+      aria-label="Toggle menu" 
+      aria-expanded="false"
+      type="button">
+      <span class="hamburger-icon">
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+      </span>
+    </button>
+
+    <div class="header-menu">
+      <ul class="menu-list">
+  
+    <li class="menu-item">
+      <a
+        href="/"
+        class="menu-link ">
+        Home
+      </a>
+    </li>
+  
+    <li class="menu-item">
+      <a
+        href="/posts/"
+        class="menu-link ">
+        Posts
+      </a>
+    </li>
+  
+    <li class="menu-item">
+      <a
+        href="/tags/"
+        class="menu-link ">
+        Tags
+      </a>
+    </li>
+  
+    <li class="menu-item">
+      <a
+        href="/about/"
+        class="menu-link ">
+        About
+      </a>
+    </li>
+  
+</ul>
+
+
+      <button id="search-toggle" class="search-toggle" aria-label="Search" type="button">
+        <svg class="search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+        </svg>
+      </button>
+
+      
+
+
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme" type="button">
+  <svg class="icon-sun" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+    <path
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="2"
+      d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
+  </svg>
+  <svg class="icon-moon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+    <path
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="2"
+      d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path>
+  </svg>
+</button>
+
+    </div>
+  </div>
+</nav>
+
+      </div>
+      <div class="reading-progress-bar" aria-hidden="true"></div>
+    </header>
+
+    <main id="main-content" class="flex-1" role="main">
+      
+  <div class="single-post-wrapper">
+    <article class="single-post">
+      
+
+
+
+
+
+
+
+      <header class="post-header">
+        
+
+<nav aria-label="breadcrumb" class="breadcrumb-nav">
+  <ol class="breadcrumb-list" itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a href="/" itemprop="item"><span itemprop="name">Home</span></a>
+      <meta itemprop="position" content="1" />
+      <span aria-hidden="true" class="breadcrumb-sep">›</span>
+    </li>
+    
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a href="/posts/" itemprop="item"><span itemprop="name">Posts</span></a>
+      <meta itemprop="position" content="2" />
+      <span aria-hidden="true" class="breadcrumb-sep">›</span>
+    </li>
+    
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <span itemprop="name" class="breadcrumb-current">Adventures with Hugo</span>
+      <meta itemprop="position" content="3" />
+    </li>
+  </ol>
+</nav>
+
+
+        <h1 class="post-title-main">Adventures with Hugo</h1>
+
+        
+
+        <div class="post-meta">
+  <div class="post-meta-info">
+    <time datetime="2026-03-13T04:33:05-04:00" class="post-date">
+      <svg class="meta-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+      </svg>
+      March 13, 2026
+    </time>
+
+    <span class="meta-separator">•</span>
+
+    
+      <span class="post-word-count">
+        <svg class="meta-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+        </svg>
+        1878 words
+      </span>
+    
+
+    
+      <span class="meta-separator">•</span>
+      <span class="post-reading-time">
+        <svg class="meta-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+        </svg>
+        9 min
+      </span>
+    
+  </div>
+
+  
+    <div class="post-tags">
+      
+        <a href="/tags/hugo" class="post-tag">hugo</a>
+      
+    </div>
+  
+</div>
+
+      </header>
+
+      <div class="post-content-main">
+        <h1 id="whats-past-is-prologue">What&rsquo;s past is prologue</h1>
+<p>I&rsquo;ve had a number of different websites&mdash;handcoded (pre-CSS), self-hosted Movable Type and WordPress, hosted WordPress, idle play with Drupal, handcoded (with CSS) in a recent spate of nostalgia, etc.&mdash;and decided I&rsquo;d try a static site generator. It&rsquo;s been a while since I&rsquo;ve Learned A New Skill, and I guess I was in need of a new distraction/hyperfocus.</p>
+<p>Well. &ldquo;Need&rdquo; is perhaps a strong word.</p>
+<p>Especially since the impetus for a new website is tied up with ham radio, another New Skill that I am Learning. So, yeah, let&rsquo;s just move this entirely into the procrastination column.</p>
+<p>I spent comparatively little time comparing things like Jekyll, 11ty, and Hugo. They seemed&hellip;fine, probably, and definitely overkill for my needs. I came across some sites actually using Hugo and decided I liked a couple of the templates. Since deciding to go with it, some folks online and in person have given it a thumbs up.</p>
+<h1 id="catch-up">Catch up</h1>
+<p>It&rsquo;s been close to twenty years since I&rsquo;ve used the command line. I used to do a lot with SQL databases, plus telnet or ssh to tweak websites, pine and elm for email, etc., but it&rsquo;s been a while since I&rsquo;ve done any of that. I can&rsquo;t remember when I last moved between directories without clicking on an icon.</p>
+<p>So the first thing I had to do was figure out where Apple puts the Terminal. (Spoiler alert: It&rsquo;s grouped with the Other Apps. Perfectly cromulent place to stash it&hellip;unlike burying special characters alongside emojis. Seriously, what is up with that? Never thought I&rsquo;d feel tempted to learn the keyboard shortcut for é, but I was 🤏 close.) After that, it was like riding a bike, except I was mostly pasting in commands or googling how to rmdir a directory with files and subdirectories in it. I&rsquo;ve encountered some very good documentation and have made good use of Homebrew and GitHub. (Despite all of the issues with GitHub.)</p>
+<h1 id="quick-start">Quick start</h1>
+<p>The Hugo folks have an easy, nicely-documented <a href="https://gohugo.io/getting-started/quick-start/">quick start</a> procedure. It worked like a charm (the only bobble is a broken image in the default theme). It&rsquo;s a good way to get your feet wet with the command line (I was comfortable, albeit rusty; but even if you come in with zero prior experience, it&rsquo;s straightforward). And then you&rsquo;ve got a site to play around with&hellip;and exposure to cloning themes, just in case one you want to use assumes greater technical facility than you possess.</p>
+<h1 id="markdown">Markdown</h1>
+<p>I&rsquo;m not a fan of Markdown. This is mainly because I learned HTML back in the &rsquo;90s and, well, had a pretty easy time remembering tags and special character codes and whatnot. Using a single asterisk or underscore isn&rsquo;t any easier to remember than putting an i or em in angle brackets, is it? Markdown just felt like the <a href="https://xkcd.com/927/">fifteenth standard</a>.</p>
+<p>But it is 2026, Markdown is old enough to drink, and my philosophical curmudgeonliness doesn&rsquo;t actually make it any harder to use.</p>
+<p>(But while we&rsquo;re on the subject of Markdown&hellip;I can insert an e-with-acute and a pinching fingers emoji but HTML is a bridge too far? smdh)</p>
+<h1 id="editing">Editing</h1>
+<p>I didn&rsquo;t have an editor installed, so I did some quick googling and installed Obsidian. People seem to like it and it doesn&rsquo;t seem to use AI. (My feelings about so-called AI may be the subject of a future rant. But for the moment, suffice to say that I avoid AI tools and view them and their advocates with great suspicion.)</p>
+<p>Anyway, I got Obsidian set up quickly and it seemed fine. It renders HTML correctly, so in that respect it does not accurately represent what is rendered on the website. However, the second theme I tried required plunking a lot in the hugo.toml file. Brief confusion about the file&rsquo;s absence in my vault lead to TSOR, where I learned that Obsidian just doesn&rsquo;t do .toml. After some eye-rolling and another TSOR, I found a couple candidates that did.</p>
+<p>So now I have Zed installed. It&rsquo;s happy editing .toml as well as .md files. I didn&rsquo;t have time to get attached to Obsidian, but I haven&rsquo;t uninstalled it. At the moment, I&rsquo;m using them interchangeably for everything except futzing with .toml files. They each have a differently loose interpretation of WYSIWYG (Obsidian shows three dashes but Zed renders an em-dash; Obsidian renders italics but Zed shows the asterisk and changes the color), but since I started using them the same day neither of them seems <em>wrong</em>.</p>
+<h1 id="themes">Themes</h1>
+<p>I wasted much time looking at different themes. My time was much better spent actually mucking about with them.</p>
+<p>Hugo&rsquo;s layout has recently been rejiggered</p>
+<h2 id="ananke">Ananke</h2>
+<p>The quick start uses the <a href="https://github.com/theNewDynamic/gohugo-theme-ananke">Ananke</a> theme, which is a bog-standard header-image-over-text-column. The image doesn&rsquo;t load (I suspect it&rsquo;s an easy fix) and I&rsquo;m not terribly fond of the aggressive vanilla-ness. I know the purpose of this theme is to have a base to customize. (I mean, that&rsquo;s what you do with any theme, but moreso with this one than others that&rsquo;ve already been tweaked to solve one problem or another.) I may well come back to it if I want to spend time building a theme, but right now I don&rsquo;t.</p>
+<p>Ananke&rsquo;s apparently in maintenance mode, with no plans for new features. That&rsquo;s actually fine&mdash;nothing wrong with something basic and stable&mdash;but one of the things I&rsquo;d like out of the box is light/dark mode, so no dice here.</p>
+<p>But, despite only using it to test basic functionality, it&rsquo;s still solid. And the name had the side effect of reminding me of Vinge&rsquo;s <em>The Summer Queen</em>, so that&rsquo;s fun.</p>
+<h2 id="gruvbox">Gruvbox</h2>
+<p>The theme I initially liked was <a href="https://github.com/schnerring/hugo-theme-gruvbox/tree/main">Gruvbox</a>. I didn&rsquo;t actually know what gruvbox was (I learned something this week) but I do remember basic web design advice about contrast. Pastel background, black or near-black text for readability. Or the reverse, for the folks who like dark mode. (I don&rsquo;t, particularly, but a built in light/dark toggle seems like a nice option for accessibility.) I&rsquo;m not the target user of this theme&mdash;I won&rsquo;t be publishing big blocks of code and I have negative interest in posting a resume&mdash;but hey, nice color palette and responsiveness.</p>
+<p>Gruvbox required installing more than the bare minimum of Hugo and Git (including the extended version of Hugo, Go, llvm, n, Zed because Obsidian doesn&rsquo;t let you edit .toml, etc.) and I did several rounds of tracking down what I needed, installing it, and seeing what happened. What happened was watching errors getting thrown, lists of security vulnerabities, and forced fixes that caused breaking changes. It did encourage me to read more issue notes and I now feel like I&rsquo;ve got a better sense of recent changes to Hugo (as well as the scope of dependencies in a theme I like largely for the color scheme). I also felt better about embracing the philosophy that a theme is meant to enable laziness. Do I want to spend time fixing something that is broken or build something myself? No, not particularly.</p>
+<p>Note that this use case of &ldquo;broken&rdquo; does include &ldquo;user error&rdquo;&mdash;it&rsquo;s quite possible I&rsquo;m missing something obvious&mdash;but for my use case, there&rsquo;s no reason to spend more time overcoming barriers to spinning it up.</p>
+<h2 id="mana">Mana</h2>
+<p><a href="https://github.com/Livour/hugo-mana-theme/tree/main">Mana</a> is a bit less aesthetically appealing than Gruvbox, but it has a) light/dark mode and b) avoids strict white and black. I have negative interest in tip jar integration or multilingual support (I am, alas, a monolingual American). This one feels heavy, with boxes and whatnot, and I&rsquo;m meh on the fonts, but it&rsquo;s also different from what I have elsewhere so I decided to try it. (Once more, I feel the need to note that I <em>am</em> aware that themes are customizable.)</p>
+<p>On the plus side, it&rsquo;s less than a month old (that makes it newer than Hugo&rsquo;s layout rejiggering); on the negative side, it&rsquo;s less than a month old (not much time for tire-kicking). One developer adds to the crapshoot factor. But whatever, it&rsquo;s a website theme; if it doesn&rsquo;t work, I can swap it out. (I periodically ruminate over theme selection for my WordPress site; this usually coincides with completely unrelated projects or responsibilities I am attempting to avoid. Hugo theme-swapping or -building may well become a future procrastination tool.)</p>
+<p>Looking at this theme got me googling Catppuccin and Chroma (oh, look, there&rsquo;s gruvbox again), and reflecting that it&rsquo;s nice that there are designers doing their design thing. I have <em>opinions</em> on colors, and I could probably come up with non-horrible palettes, but I&rsquo;d much rather take the advice of people with a trained eye.</p>
+<p>I followed the <a href="https://gohugo.io/getting-started/quick-start/">Quickstart</a> procedure in a fresh directory, substituting Mana for Ananke, and then started editing the hugo.toml file. Very quick and smooth.</p>
+<h3 id="tweaks">Tweaks</h3>
+<p>I&rsquo;ve noticed a couple annoying issues with dates. I can configure the start date&hellip;but the copyright is currently listed as 2026&ndash;2026. I have not yet figured out how to make it not do that. The post search by month and year is for March 1, 2026, not March 2026. (I suppose reporting issues like these is the sort of thing I should use a GitHub account for&hellip;except I am self-conscious, trapped between Imposter Syndrome and my very strong desire to avoid Karen-ing, demanding to talk to a manager when the manager is some dude who built something I downloaded for free. I will either get over myself, or not.)</p>
+<p>The theme&rsquo;s default social media list&hellip;does not overlap with <em>my</em> default social media list. (Seriously. X and LinkedIn are the Worst. At least there aren&rsquo;t any Zuckerverse placeholders.) I&rsquo;ve just disabled the social menu; only listing Mastodon, Bluesky, and GitHub seems kind of pointless. (They&rsquo;re all new accounts, and I seriously doubt I&rsquo;ll end up using anything outside of the fediverse.) The Buy Me a Coffee doohickey is disabled by default, saving thirty seconds of my life.</p>
+<p>I may rejigger fonts, but that&rsquo;s for later. I don&rsquo;t want to mess around with styles right now. I even left the default Catppuccin selections in place.</p>
+<p>There&rsquo;s not much daylight between h1, h2, and h3, based on eyeballing this post. I can&rsquo;t bring myself to care too much, especially since the Table of Contents nests them correctly. (Speaking of overkill for my use case. I rarely go more than one level of header in a blog post.)</p>
+<p>There&rsquo;s no way I&rsquo;m keeping a bouncing image (yes, that&rsquo;s a Feature of the theme but, well, no thanks, I hate it).</p>
+<h1 id="where-do-the-images-go">Where do the images go?</h1>
+<p>In the previous millennia, I would routinely create a directory for images. So much neater than just having them hanging around loose. And the next time you needed an image, you knew where it was.</p>
+<p>So&hellip;would an image file belong in content or asset or static? Unsurprisingly, the queries and discussion seem to indicate that the actual answer is &ldquo;it depends&rdquo; (I respect that), but the <a href="https://gohugo.io/content-management/">content management documentation</a> talks about page bundles and resources. I take that to mean that the preferred organizational method is to have directories for each post, within which there&rsquo;s an index.md and image files (and whatever else the post needs). That strikes me as a bit bulky, but it seems like the way to get into the spirit of Hugo.</p>
+<h1 id="deployment">Deployment</h1>
+<p>Not there yet.</p>
+
+      </div>
+
+      
+        <footer class="post-footer">
+          <div class="post-tags-footer">
+            <span class="tags-label">Tags:</span>
+            
+              <a href="/tags/hugo" class="post-tag">hugo</a>
+            
+          </div>
+        </footer>
+      
+
+      
+
+
+
+
+      <nav class="post-navigation" aria-label="Post navigation">
+        
+
+        
+      </nav>
+    </article>
+
+    
+  <aside class="post-toc" id="post-toc" aria-label="Table of Contents">
+    <button
+      class="toc-toggle"
+      id="toc-toggle"
+      aria-expanded="true"
+      aria-controls="toc-content"
+      aria-label="Toggle table of contents">
+      <svg
+        class="toc-burger-icon"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        aria-hidden="true">
+        <line x1="3" y1="6" x2="21" y2="6"></line>
+        <line x1="3" y1="12" x2="21" y2="12"></line>
+        <line x1="3" y1="18" x2="21" y2="18"></line>
+      </svg>
+      <span class="toc-toggle-text">Table of Contents</span>
+      <svg
+        class="toc-chevron-icon"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        aria-hidden="true">
+        <polyline points="6 9 12 15 18 9"></polyline>
+      </svg>
+    </button>
+    <div class="toc-content" id="toc-content">
+      <nav class="toc-nav" aria-label="Table of Contents">
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#whats-past-is-prologue">What&rsquo;s past is prologue</a></li>
+    <li><a href="#catch-up">Catch up</a></li>
+    <li><a href="#quick-start">Quick start</a></li>
+    <li><a href="#markdown">Markdown</a></li>
+    <li><a href="#editing">Editing</a></li>
+    <li><a href="#themes">Themes</a>
+      <ul>
+        <li><a href="#ananke">Ananke</a></li>
+        <li><a href="#gruvbox">Gruvbox</a></li>
+        <li><a href="#mana">Mana</a>
+          <ul>
+            <li><a href="#tweaks">Tweaks</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#where-do-the-images-go">Where do the images go?</a></li>
+    <li><a href="#deployment">Deployment</a></li>
+  </ul>
+</nav>
+      </nav>
+    </div>
+  </aside>
+
+
+  </div>
+
+    </main>
+
+    <footer>
+      <footer class="site-footer">
+  <div class="footer-content">
+    <p class="footer-text">
+      &copy;
+      
+      2026-2026
+      
+      KD3CPY.
+      
+        Built with Hugo and Mana theme.
+      
+    </p>
+    
+  </div>
+</footer>
+
+    </footer>
+
+    <div id="search-modal" class="search-modal" aria-hidden="true" role="dialog" aria-label="Search" data-no-results="No results found">
+  <div class="search-modal-backdrop" id="search-modal-backdrop"></div>
+  <div class="search-modal-container">
+    <div class="search-input-wrapper">
+      <svg class="search-input-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+      </svg>
+      <input
+        type="search"
+        id="search-input"
+        class="search-input"
+        placeholder="Search..."
+        autocomplete="off"
+        aria-label="Search">
+      <button class="search-input-clear" id="search-input-clear" aria-label="Clear search">
+        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path>
+        </svg>
+      </button>
+      <button class="search-modal-close" id="search-modal-close" aria-label="Close search">
+        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+      </button>
+    </div>
+    <div id="search-results" class="search-results"></div>
+  </div>
+</div>
+
+    
+<div id="mobile-menu" class="mobile-menu" aria-hidden="true">
+  <div class="mobile-menu-overlay"></div>
+  <div class="mobile-menu-content">
+    <div class="mobile-menu-header">
+      <span class="mobile-menu-title">Menu</span>
+      <button
+        id="mobile-menu-close"
+        class="mobile-menu-close"
+        aria-label="Close menu"
+        type="button">
+        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+      </button>
+    </div>
+    <nav class="mobile-menu-nav" role="navigation" aria-label="Mobile navigation">
+      <ul class="menu-list">
+  
+    <li class="menu-item">
+      <a
+        href="/"
+        class="menu-link ">
+        Home
+      </a>
+    </li>
+  
+    <li class="menu-item">
+      <a
+        href="/posts/"
+        class="menu-link ">
+        Posts
+      </a>
+    </li>
+  
+    <li class="menu-item">
+      <a
+        href="/tags/"
+        class="menu-link ">
+        Tags
+      </a>
+    </li>
+  
+    <li class="menu-item">
+      <a
+        href="/about/"
+        class="menu-link ">
+        About
+      </a>
+    </li>
+  
+</ul>
+
+    </nav>
+    <div class="mobile-menu-footer">
+      <button id="mobile-search-toggle" class="mobile-search-toggle" aria-label="Search" type="button">
+        <svg class="search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+        </svg>
+        <span>Search</span>
+      </button>
+      
+
+      <button class="theme-toggle" aria-label="Toggle theme" type="button">
+        <svg class="icon-sun" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
+        </svg>
+        <svg class="icon-moon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path>
+        </svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+    
+
+    <button id="scroll-to-top" class="scroll-to-top" aria-label="Scroll to top" type="button">
+  <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+    <path
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="2"
+      d="M5 10l7-7m0 0l7 7m-7-7v18"></path>
+  </svg>
+</button>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="/js/main.min.137938305a4255a5ce0531471a42b4448c4adb05e04052a70000719c0704d082.js" defer></script>
+
+  </body>
+</html>

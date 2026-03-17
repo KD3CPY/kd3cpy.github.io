@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on A Little Ham Radio Site</title>
+    <link>http://localhost:1313/tags/markdown/</link>
+    <description>Recent content in Markdown on A Little Ham Radio Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adventures with Hugo</title>
+      <link>http://localhost:1313/posts/hugo/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hugo/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve had a number of different websites&amp;mdash;handcoded (pre-CSS), self-hosted Movable Type and WordPress, hosted WordPress, idle play with Drupal, handcoded (with CSS) in a recent spate of nostalgia, etc.&amp;mdash;and decided I&amp;rsquo;d try a static site generator. It&amp;rsquo;s been a while since I&amp;rsquo;ve Learned A New Skill, and I guess I was in need of a new distraction/hyperfocus.&lt;/p&gt;&#xA;&lt;p&gt;Well. &amp;ldquo;Need&amp;rdquo; is perhaps a strong word.&lt;/p&gt;&#xA;&lt;p&gt;Especially since the impetus for a new website is tied up with ham radio, another New Skill that I am Learning. So, yeah, let&amp;rsquo;s just move this entirely into the procrastination column.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
