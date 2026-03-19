@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "async-neocities": "^4.1.2",
+    "neocities": "^0.0.3"
+  }
+}

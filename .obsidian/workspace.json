@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/hugo/index.md",
+                "file": "content/posts/argh/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/hugo/index.md",
+                "file": "content/posts/argh/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/hugo/index.md",
+                "file": "content/posts/argh/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/hugo/index.md",
+                "file": "content/posts/argh/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,24 +185,43 @@
   },
   "active": "0e712858a6ba1a4b",
   "lastOpenFiles": [
-    "content/about/index.md",
-    "content/links/index.md",
-    "public/links/index.html",
-    "public/links",
-    "content/links",
-    "content/posts/hugo/index.md",
-    "public/tags/github/index.xml",
-    "public/tags/github/index.html",
-    "public/tags/github",
-    "content/about/FN20kb.png",
+    "public/posts/argh/index.html",
+    "public/posts/argh",
+    "public/tags/neocities/index.xml",
+    "public/tags/neocities/index.html",
+    "public/tags/neocities",
     "content/posts/first-post/index.md",
-    "public/about/about/index.html",
-    "public/about/about",
-    "content/about/about.md",
-    "public/about/index.xml",
-    "public/about/page/1/index.html",
-    "content/about.md",
-    "content/about/index-old.md",
+    "content/posts/hugo/index.md",
+    "content/posts/argh/index.md",
+    "content/posts/argh",
+    "node_modules/neocities/package.json",
+    "node_modules/neocities/neocities.min.js",
+    "node_modules/neocities/index.js",
+    "node_modules/neocities/README.md",
+    "node_modules/neocities",
+    "package-lock.json",
+    "node_modules/argsclopts/README.md",
+    "node_modules/argsclopts/CONTRIBUTING.md",
+    "node_modules/argsclopts/CHANGELOG.md",
+    "node_modules/@types/combined-stream/README.md",
+    "node_modules/undici/README.md",
+    "node_modules/undici/types/README.md",
+    "node_modules/undici/docs/docs/best-practices/writing-tests.md",
+    "node_modules/undici/docs/docs/best-practices/undici-vs-builtin-fetch.md",
+    "node_modules/undici/docs/docs/best-practices/proxy.md",
+    "node_modules/undici/docs/docs/best-practices/mocking-request.md",
+    "node_modules/undici/docs/docs/best-practices/crawling.md",
+    "node_modules/undici/docs/docs/best-practices/client-certificate.md",
+    "node_modules/undici/docs/docs/api/api-lifecycle.md",
+    "node_modules/undici/docs/docs/api/WebSocket.md",
+    "node_modules/undici/docs/docs/api/Util.md",
+    "node_modules/undici/docs/docs/api/Socks5ProxyAgent.md",
+    "node_modules/undici/docs/docs/api/SnapshotAgent.md",
+    "node_modules/undici/docs/docs/api/RoundRobinPool.md",
+    "node_modules/undici/docs/docs/api/RetryHandler.md",
+    "node_modules/undici/docs/docs/api/RetryAgent.md",
+    "node_modules/undici/docs/docs/api/RedirectHandler.md",
+    "content/about/FN20kb.png",
     "public/images/logo.png",
     "content/images/logo.png",
     "public/images/International_amateur_radio_symbol-120x240.png",
@@ -211,15 +230,6 @@
     "content/about/International_amateur_radio_symbol-240x480.png",
     "public/images/International_amateur_radio_symbol-240x480.png",
     "static/images/International_amateur_radio_symbol-240x480.png",
-    "public/about/International_amateur_radio_symbol-240x480.png",
-    "content/posts/first-post/first-post.md",
-    "Untitled.md",
-    "index.md",
-    "themes/mana/archetypes/default.md",
-    "themes/mana/README.md",
-    "themes/mana/images/README.md",
-    "content/posts/hugo/hugo.md",
-    "content/posts/hugo.md",
-    "content/posts/untitled folder/hugo.md"
+    "public/about/International_amateur_radio_symbol-240x480.png"
   ]
 }

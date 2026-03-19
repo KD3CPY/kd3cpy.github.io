@@ -63,7 +63,7 @@ Note that this use case of "broken" does include "user error"---it's quite possi
 
 On the plus side, it's less than a month old (that makes it newer than Hugo's layout rejiggering). On the negative side, it's less than a month old (not much time for tire-kicking). One developer adds to the crapshoot factor. But whatever, it's a website theme; if it doesn't work, I can swap it out. It's different from what I use elsewhere, and that's very appealing.
 
-Looking at this theme got me googling Catppuccin and Chroma (oh, look, there's gruvbox again), and reflecting that it's nice that there are designers doing their design thing. I have *opinions* on colors, and I could probably come up with non-horrible palettes, but I'd much rather take the advice of people with a trained eye. 
+Looking at this theme got me googling Catppuccin and Chroma (oh, look, there's gruvbox again), and reflecting that it's nice that there are designers doing their design thing. I have *opinions* on colors, and I could probably come up with non-horrible palettes, but I'd much rather take the advice of people with a trained eye.
 
 I followed the [quick start](https://gohugo.io/getting-started/quick-start/) procedure again, substituting Mana for Ananke, and then started editing the `hugo.toml` file. Very quick and smooth. I started writing this as a test post.
 ### Tweaks
@@ -112,8 +112,6 @@ And I also realized the header text announcing ABOUT was missing...even though o
 
 Now I've got a site. Where to put it?
 
-I'm using the extended/deploy version of Hugo, specifically 0.157.0, but apparently the "deploy" part only applies to a few cloud services. Alas. I do not feel like fiddling around with their various plans when I'm just looking for free hosting.
-
-I don't need to care about uptime---this is purely a hobby site---and if I end up opting for a domain name, I can just point it wherever. 
+I'm using the extended/deploy version of Hugo, specifically 0.157.0, but apparently the "deploy" part only applies to a few cloud services. Alas. I do not feel like fiddling around with their various plans when I'm just looking for free hosting. I don't need to care about uptime---this is purely a hobby site---and if I end up opting for a domain name, I can just point it wherever. 
 
 I've been using Neocities lately, when I need something quick-and-dirty and I've seen at least one [guide](https://neonaut.neocities.org/neocities/) for slapping a Hugo site up there. I also see advocates for GitHub Pages. The Hugo documentation includes a lot of hosting options. Most of them seem to involve having a GitHub repository in the first place. So if the assumption is that I'm already using GitHub, it seems like I might as well use GitHub Pages. (I don't think I need to care about the repository being public.) So my current plan is to try that by following the Hugo [documentation](https://gohugo.io/host-and-deploy/host-on-github-pages/). It's served me well so far.
