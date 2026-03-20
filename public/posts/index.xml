@@ -6,15 +6,8 @@
     <description>Recent content in Posts on A Little Ham Radio Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Argh</title>
-      <link>http://localhost:1313/posts/argh/</link>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/argh/</guid>
-      <description>&lt;p&gt;When &lt;a href=&#34;http://localhost:1313/posts/hugo/&#34;&gt;last I posted&lt;/a&gt;, I was discussing the upcoming&amp;mdash;and doubtless straightforward&amp;mdash;process of getting this site actually online. The local copy works, everything looks good, there exists documentation to move things from point A to point B, where point B is GitHub.&lt;/p&gt;&#xA;&lt;p&gt;Yet&amp;hellip;argh, I am having difficulty proving that I have permission to do anything with my Git project. Password, key, token&amp;hellip;argh.&lt;/p&gt;&#xA;&lt;p&gt;I noticed Neocities does indeed have a &lt;a href=&#34;https://neocities.org/cli&#34;&gt;CLI push option&lt;/a&gt;. Awesome! (How did I miss noticing that before?) Problem solved! Except&amp;hellip;I&amp;rsquo;m getting errors installing &lt;code&gt;neocities&lt;/code&gt;. Issues with needing older gems and newer Ruby. &lt;code&gt;ruby -v&lt;/code&gt; reports a 2.6 version (which would&amp;rsquo;ve come pre-installed on the Mac), despite Homebrew claiming that 4.2 is installed&amp;hellip;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Adventures with Hugo</title>
       <link>http://localhost:1313/posts/hugo/</link>

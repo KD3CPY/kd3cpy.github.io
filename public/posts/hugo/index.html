@@ -462,10 +462,10 @@
 <p>So&hellip;would an image file belong in content or asset or static? Unsurprisingly, the queries and discussion seem to indicate that the actual answer is &ldquo;it depends&rdquo; (I respect that), but the <a href="https://gohugo.io/content-management/">content management documentation</a> talks about page bundles and resources. I take that to mean that the preferred organizational method is to have directories for each post, within which there&rsquo;s an <code>index.md</code> and image files (and whatever else the post needs). That strikes me as a bit bulky, if you ever reuse images or other resources, but it seems like the way to get into the spirit of Hugo.</p>
 <p>So for this post, I went with <code>content/posts/hugo</code> as the file path. In there is the logo (<code>hugo-logo-wide.svg</code>) and the actual post (<code>index.md</code>).</p>
 <p>I&rsquo;ve established how to provide alt text for an image within the body of the post:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">![Screenshot of the card for this draft post, in dark mode. The middle of the rectangular Hugo logo is visible, about three-quarters of each of two hexagons, blue and green, with the letters U and G in white. Not a terribly illuminating image.](Screenshot.PNG)
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">![<span class="nt">Screenshot of the card for this draft post, in dark mode. The middle of the rectangular Hugo logo is visible, about three-quarters of each of two hexagons, blue and green, with the letters U and G in white. Not a terribly illuminating image.</span>](<span class="na">Screenshot.png</span>)
 </span></span></code></pre></div><p>And with that Markdown sample, I have now also established that the light/dark toggle doesn&rsquo;t effect code blocks. I suspect I could figure out how to reconfigure it, but it&rsquo;s not at all a priority for me. If I was planning on displaying lots of code, it would merit a deeper dive.</p>
 <p>I haven&rsquo;t yet made any tweaks to assign alt text to images included in the frontmatter of posts: it looks eminently do-able, but is not a priority because those will probably just be decorative images. And it&rsquo;s possible I&rsquo;ll opt out of using them entirely, because without resizing them for card display they&rsquo;re potentially just a random splash of color. In any case, making changes to adjust the frontmatter images will count as more active mucking about than I want to do at the moment.</p>
-<p><img src="Screenshot.PNG" alt="Screenshot of the card for this draft post, in dark mode. The middle of the rectangular Hugo logo is visible, about three-quarters of each of two hexagons, blue and green, with the letters U and G in white. Not a terribly illuminating image."></p>
+<p><img src="Screenshot.png" alt="Screenshot of the card for this draft post, in dark mode. The middle of the rectangular Hugo logo is visible, about three-quarters of each of two hexagons, blue and green, with the letters U and G in white. Not a terribly illuminating image."></p>
 <p>And before I look into alt text, I&rsquo;d have to deal with sizing. I tried a 120 x 240 image, and the theme blew it way up to fill the width at the top of the post. Again, presumably I can figure out how to get the sort of responsiveness I want, but the much easier solution is to just&hellip;not call images in the frontmatter.</p>
 <p>Getting the images on the About page and hero section was frustrating. They&rsquo;re called in <code>hugo.toml</code> (<code>params.avatar</code>). I tried setting the About avatar <code>assetPath</code> to an image in the <code>about</code> directory and for the hero image, I tried creating an <code>images</code> directory in <code>static</code>, in <code>content</code>, in <code>public</code>. No dice. I looked at the <code>example.toml</code> in the theme directory (not for the first time!)&hellip;and saw the option to just set a <code>url</code> instead of <code>assetPath</code>. I set the damn <code>url</code> for the hero image and called it a day. Voilà, enjoy the extremely yellow <a href="/images/International_amateur_radio_symbol-240x480.png">international symbol for amateur radio</a> on the landing page.</p>
 <p>I tried the same process for the About page&hellip;and it&rsquo;s broken. I tried to enable resizing&hellip;nope. (Maybe because <code>url</code> is set?) Argh. I tried yoinking the image off the theme-maker&rsquo;s page, in case using 120 x 240 was an issue. Nope, still not displaying. I&rsquo;m not sure what&rsquo;s going on, why the same solution doesn&rsquo;t work for this avatar. I&rsquo;m sure there&rsquo;s something obvious I&rsquo;m missing (like when you walk past the thing you want at the grocery store half a dozen times, only to find it sitting at eye level). I solved the problem by commenting out a line of code in the <code>hugo.toml</code> file. I didn&rsquo;t have any avatar I was particularly excited about using anyway.</p>
@@ -512,14 +512,6 @@
           </a>
         
 
-        
-          <a
-            href="/posts/argh/"
-            class="nav-link nav-next"
-            aria-label="Next post: Argh">
-            <span class="nav-label">Next</span>
-            <span class="nav-title">Argh</span>
-          </a>
         
       </nav>
     </article>
