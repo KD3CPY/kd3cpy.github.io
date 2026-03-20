@@ -98,3 +98,9 @@ defaultContentLanguage = "en"
   name = "About"
   url = "/about/"
   weight = 40
+
+# Added for GitHub Pages
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

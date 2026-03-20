@@ -1,5 +1,5 @@
 +++
-date = '2026-03-19'
+date = '2026-03-20'
 draft = true
 title = 'Argh'
 tags = ['neocities','github']
@@ -14,4 +14,4 @@ What about [async-neocities](https://github.com/bcomnes/async-neocities/tree/mas
 
 (At this point, I began to feel great nostalgia for FTP. There is something beautiful about dragging-and-dropping in an FTP client.)
 
-I went back to GitHub [documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) and successfully added this site's files to my repository.
+I went back to GitHub [documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) and successfully added this site's files to my repository. GitHub Pages really seems to want to use Jekyll and does not recognize my `public` directory. (Rather than making me wish I had opted for Jekyll, this makes me feel defensive on Hugo's behalf.) So now it looks like I'm creating an [Actions workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
