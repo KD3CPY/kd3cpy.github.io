@@ -21,3 +21,11 @@ I basically followed the [Hugo documentation](https://gohugo.io/host-and-deploy/
 It looks like the site has successfully been pushed to GitHub Pages and the workflows all show as green. But then when I try re-pushing from the command line, it asks for my GitHub password but says, again, that it's invalid.
 
 Still, the site looks fine. Oh, wait, the hero logo is moving. So the `hero.css` is okay locally but not in the repository...even though I didn't push until after I'd made changes...? And an image is broken on the previous post. Okay, this means more rounds of troubleshooting. (Why can't it just let me push the `public` directory!) 
+
+Trying `git config` to set username and password. What about setting the token? Setting `token` didn't work, but `user.token` did (or at least it let me set it). I also set `user.password` and when I try a `git push` it...asks for username and password, then throws the password-authentication-is-not-supported error.
+
+Hm, doing `git config list` shows a reference to the Mana theme on the GitHub. But I don't know why the `hero.css` would be coming from there but not `layouts\partials\footer.html` (the file I edited to fix the copyright display, which is displaying correctly on GitHub Pages). 
+
+Do I need to reset the repository URL? Nope, that's correct. Trying `brew install --cask git-credential-manager`. No, it's not taking the password there. Trying to do a `sudo git push`. Nope: another "sorry, try again" message. Didn't take the token, either. Oh, wait, is this a *font issue*? Resetting to TNR, it looks like I misread a couple upper-case *I*s as lower-case *l*s. But...nope, even entering modified password and token, it doesn't work from the command line.
+
+Oh, no, *wait*, it is repository address. Now I've reset it for `https://github.com/KD3CPY/kd3cpy.github.io` (instead of `kd3cpy.git`, because it's set for use on Pages). 
