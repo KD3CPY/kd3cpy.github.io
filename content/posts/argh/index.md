@@ -1,6 +1,6 @@
 +++
 date = '2026-03-19'
-draft = false
+draft = true
 title = 'Argh'
 tags = ['neocities','github']
 +++
@@ -14,3 +14,4 @@ What about [async-neocities](https://github.com/bcomnes/async-neocities/tree/mas
 
 (At this point, I began to feel great nostalgia for FTP. There is something beautiful about dragging-and-dropping in an FTP client.)
 
+I went back to GitHub [documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) and successfully added this site's files to my repository.
