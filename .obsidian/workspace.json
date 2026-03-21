@@ -183,11 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "0e712858a6ba1a4b",
+  "active": "580479315b742245",
   "lastOpenFiles": [
-    "themes/mana/README.md",
-    "content/posts/argh/index.md",
+    "content/posts/argh/index.md.archive",
     "content/about/index.md",
+    "content/posts/argh/index.md",
+    "themes/mana/README.md",
     "content/posts/hugo/screenshot.png",
     "content/posts/hugo/index.md",
     "content/posts/first-post/index.md",
@@ -221,7 +222,6 @@
     "node_modules/undici/docs/docs/api/SnapshotAgent.md",
     "node_modules/undici/docs/docs/api/RoundRobinPool.md",
     "node_modules/undici/docs/docs/api/RetryHandler.md",
-    "node_modules/undici/docs/docs/api/RetryAgent.md",
     "content/about/FN20kb.png",
     "public/images/logo.png",
     "content/images/logo.png",

@@ -13,7 +13,6 @@ Callsign: KD3CPY
 License: Technician (February 2026)  
 Grid square: FN20kb  
 QSL: [QRZ](https://www.qrz.com/db/KD3CPY)
-
 # Socials
 [Bluesky](https://bsky.app/profile/kd3cpy.bsky.social)  
 [GitHub](https://github.com)  
