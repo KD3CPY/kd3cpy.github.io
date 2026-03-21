@@ -2,7 +2,7 @@
 date = '2026-03-20'
 draft = false
 title = 'Argh'
-tags = ['github','neocities','cli','hugo','submodules']
+tags = ['github','neocities','CLI','hugo','submodules']
 +++
 When [last I posted](/posts/hugo/), I was discussing the upcoming---and doubtless straightforward---process of getting this site actually online. The local copy worked, everything looked good, there existed documentation to move things from point A to point B, where point B is GitHub.
 
