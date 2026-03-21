@@ -13,7 +13,6 @@ Callsign: KD3CPY
 License: Technician (February 2026)  
 Grid square: FN20kb  
 QSL: [QRZ](https://www.qrz.com/db/KD3CPY)
-# Organizations
 
 # Socials
 [Bluesky](https://bsky.app/profile/kd3cpy.bsky.social)  
@@ -21,6 +20,5 @@ QSL: [QRZ](https://www.qrz.com/db/KD3CPY)
 [Mastodon](https://mastodon.radio/@KD3CPY)  
 [Ravelry](https://www.ravelry.com/people/mhpm)
 
-# Rings
 Fediverse.Radio Web Ring  
 [← Back](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=previous) [↑ Random](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=random) [↓ Ring Home](https://ring.fediverse.radio) [Next →](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=next)

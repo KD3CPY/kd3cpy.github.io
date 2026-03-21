@@ -29,3 +29,20 @@ Hm, doing `git config list` shows a reference to the Mana theme on the GitHub. B
 Do I need to reset the repository URL? Nope, that's correct. Trying `brew install --cask git-credential-manager`. No, it's not taking the password there. Trying to do a `sudo git push`. Nope: another "sorry, try again" message. Didn't take the token, either. Oh, wait, is this a *font issue*? Resetting to TNR, it looks like I misread a couple upper-case *I*s as lower-case *l*s. But...nope, even entering modified password and token, it doesn't work from the command line.
 
 Oh, no, *wait*, it is repository address. Now I've reset it for `https://github.com/KD3CPY/kd3cpy.github.io` (instead of `kd3cpy.git`, because it's set for use on Pages). 
+
+Tried:
+```
+git add .
+git commit -m "Comment"
+git push -f -u origin main
+```
+
+This time, it accepted the token (have I just been *mistyping* it every. Single. Time?) and began enumerating, counting, compressing, and writing objects. But the remote was rejected because the token can't update the workflow `.yaml` without "workflow" scope (which I could've sworn I did when I ticked the workflow ticky box and generated a new token.) When I just try `git push origin main`, it tells me I have to fetch first. (No! No, I don't! This is strictly a one-way operation!)
+
+Okay, I went in *again* to tick the workflow ticky box, and this time it appears to've worked. So I am able to do a `git commit` and then `git push --force` (forced because I don't want to fetch anything from the repository to reconcile with what I have locally: this is strictly a one-woman, one-way operation).
+
+I cheated and made some manual changes to deal with the broken image (I don't know why making the image name lower case worked, but it did, so huzzah!) Now, the only issue is the bouncing logo. Why are submodules a thing? Why is it not just taking *my* modified `.css` from local?
+
+This is driving me completely batty. I'm using a static site generator so I can *generate a static site*. I just want whatever is in *my* public directory to show up on the interwebs.
+
+This is all clearly a learning experience for me.

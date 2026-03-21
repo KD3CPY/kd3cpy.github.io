@@ -185,15 +185,17 @@
   },
   "active": "0e712858a6ba1a4b",
   "lastOpenFiles": [
-    "content/about/index.md",
+    "themes/mana/README.md",
     "content/posts/argh/index.md",
+    "content/about/index.md",
+    "content/posts/hugo/screenshot.png",
+    "content/posts/hugo/index.md",
+    "content/posts/first-post/index.md",
     "public/posts/argh/index.html",
     "public/posts/argh",
     "public/tags/neocities/index.xml",
     "public/tags/neocities/index.html",
     "public/tags/neocities",
-    "content/posts/first-post/index.md",
-    "content/posts/hugo/index.md",
     "content/posts/argh",
     "node_modules/neocities/package.json",
     "node_modules/neocities/neocities.min.js",
@@ -220,7 +222,6 @@
     "node_modules/undici/docs/docs/api/RoundRobinPool.md",
     "node_modules/undici/docs/docs/api/RetryHandler.md",
     "node_modules/undici/docs/docs/api/RetryAgent.md",
-    "node_modules/undici/docs/docs/api/RedirectHandler.md",
     "content/about/FN20kb.png",
     "public/images/logo.png",
     "content/images/logo.png",
@@ -229,7 +230,6 @@
     "content/images/International_amateur_radio_symbol-240x480.png",
     "content/about/International_amateur_radio_symbol-240x480.png",
     "public/images/International_amateur_radio_symbol-240x480.png",
-    "static/images/International_amateur_radio_symbol-240x480.png",
-    "public/about/International_amateur_radio_symbol-240x480.png"
+    "static/images/International_amateur_radio_symbol-240x480.png"
   ]
 }
