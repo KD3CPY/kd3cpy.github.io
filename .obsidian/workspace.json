@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/argh/index.md",
+                "file": "content/about/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/argh/index.md",
+                "file": "content/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/argh/index.md",
+                "file": "content/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/argh/index.md",
+                "file": "content/about/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,11 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "580479315b742245",
+  "active": "0e712858a6ba1a4b",
   "lastOpenFiles": [
+    "content/posts/argh/index.md",
     "content/posts/argh/index.md.archive",
     "content/about/index.md",
-    "content/posts/argh/index.md",
     "themes/mana/README.md",
     "content/posts/hugo/screenshot.png",
     "content/posts/hugo/index.md",
@@ -202,7 +202,6 @@
     "node_modules/neocities/neocities.min.js",
     "node_modules/neocities/index.js",
     "node_modules/neocities/README.md",
-    "node_modules/neocities",
     "node_modules/argsclopts/README.md",
     "node_modules/argsclopts/CONTRIBUTING.md",
     "node_modules/argsclopts/CHANGELOG.md",

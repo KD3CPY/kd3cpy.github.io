@@ -12,7 +12,9 @@ Other hobbies include: writing (mostly genre fiction), knitting (crochet is dark
 Callsign: KD3CPY  
 License: Technician (February 2026)  
 Grid square: FN20kb  
-QSL: [QRZ](https://www.qrz.com/db/KD3CPY)
+QSL: [QRZ](https://www.qrz.com/db/KD3CPY), [LoTW](https://lotw.arrl.org)
+# Organizations
+[Phil-Mont Mobile Radio Club](https://www.phil-mont.org)
 # Socials
 [Bluesky](https://bsky.app/profile/kd3cpy.bsky.social)  
 [GitHub](https://github.com)  
