@@ -104,3 +104,19 @@ defaultContentLanguage = "en"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+# Added for RSS feed
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
+
+[services]
+  [services.rss]
+    limit = 42
+
+[params]
+  [params.author]
+    name = 'KD3CPY'
