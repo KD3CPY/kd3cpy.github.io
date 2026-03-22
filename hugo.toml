@@ -104,3 +104,12 @@ defaultContentLanguage = "en"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+#Added for RSS
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  posts = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
