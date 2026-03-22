@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/hugo/index.md",
+                "file": "content/about/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/hugo/index.md",
+                "file": "content/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/hugo/index.md",
+                "file": "content/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/hugo/index.md",
+                "file": "content/about/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,6 +185,7 @@
   },
   "active": "0e712858a6ba1a4b",
   "lastOpenFiles": [
+    "content/posts/hugo/index.md",
     "public/tags/submodules/index.xml",
     "public/tags/submodules/index.html",
     "public/tags/submodules",
@@ -198,12 +199,10 @@
     "content/posts/hugo/screenshot copy.png",
     "content/images/logo.png.archive",
     "content/posts/argh/index.md",
-    "content/posts/hugo/index.md",
     "content/posts/argh/index.md.archive",
     "themes/mana/README.md",
     "content/posts/hugo/screenshot.png",
     "content/posts/first-post/index.md",
-    "public/posts/argh/index.html",
     "node_modules/neocities/README.md",
     "node_modules/argsclopts/README.md",
     "node_modules/argsclopts/CONTRIBUTING.md",
