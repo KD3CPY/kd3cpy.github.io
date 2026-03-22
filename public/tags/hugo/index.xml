@@ -6,8 +6,15 @@
     <description>Recent content in Hugo on A Little Ham Radio Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Argh</title>
+      <link>http://localhost:1313/posts/argh/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/argh/</guid>
+      <description>&lt;p&gt;When &lt;a href=&#34;http://localhost:1313/posts/hugo/&#34;&gt;last I posted&lt;/a&gt;, I was discussing the upcoming&amp;mdash;and doubtless straightforward&amp;mdash;process of getting this site actually online. The local copy worked, everything looked good, there existed documentation to move things from point A to point B, where point B is GitHub.&lt;/p&gt;&#xA;&lt;p&gt;Suffice to say that this has been more of a learning experience than I hoped. I established that the Neocities &lt;a href=&#34;https://neocities.org/cli&#34;&gt;CLI push option&lt;/a&gt; was good for nothing but generating errors and having issues with Ruby (and &lt;code&gt;ruby -v&lt;/code&gt; and Homebrew have different ideas of which version is installed&amp;hellip;) Third party Neocities options also weren&amp;rsquo;t working, and I&amp;rsquo;m not in a position to tell if it&amp;rsquo;s user error or something actually broken. So I went back to my maybe-just-do-GitHub-Pages plan.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Adventures with Hugo</title>
       <link>http://localhost:1313/posts/hugo/</link>

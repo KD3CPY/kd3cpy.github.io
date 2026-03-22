@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Github on A Little Ham Radio Site</title>
-    <link>http://localhost:1313/tags/github/</link>
-    <description>Recent content in Github on A Little Ham Radio Site</description>
+    <title>Submodules on A Little Ham Radio Site</title>
+    <link>http://localhost:1313/tags/submodules/</link>
+    <description>Recent content in Submodules on A Little Ham Radio Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/submodules/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Argh</title>
       <link>http://localhost:1313/posts/argh/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/argh/</guid>
       <description>&lt;p&gt;When &lt;a href=&#34;http://localhost:1313/posts/hugo/&#34;&gt;last I posted&lt;/a&gt;, I was discussing the upcoming&amp;mdash;and doubtless straightforward&amp;mdash;process of getting this site actually online. The local copy worked, everything looked good, there existed documentation to move things from point A to point B, where point B is GitHub.&lt;/p&gt;&#xA;&lt;p&gt;Suffice to say that this has been more of a learning experience than I hoped. I established that the Neocities &lt;a href=&#34;https://neocities.org/cli&#34;&gt;CLI push option&lt;/a&gt; was good for nothing but generating errors and having issues with Ruby (and &lt;code&gt;ruby -v&lt;/code&gt; and Homebrew have different ideas of which version is installed&amp;hellip;) Third party Neocities options also weren&amp;rsquo;t working, and I&amp;rsquo;m not in a position to tell if it&amp;rsquo;s user error or something actually broken. So I went back to my maybe-just-do-GitHub-Pages plan.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Adventures with Hugo</title>
-      <link>http://localhost:1313/posts/hugo/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugo/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve had a number of different websites&amp;mdash;handcoded (pre-CSS), self-hosted Movable Type and WordPress, hosted WordPress, idle play with Drupal, handcoded (with CSS) in a recent spate of nostalgia, etc.&amp;mdash;and decided I&amp;rsquo;d try a static site generator. It&amp;rsquo;s been a while since I&amp;rsquo;ve Learned A New Skill, and I guess I was in need of a new distraction/hyperfocus.&lt;/p&gt;&#xA;&lt;p&gt;Well. &amp;ldquo;Need&amp;rdquo; is perhaps a strong word.&lt;/p&gt;&#xA;&lt;p&gt;Especially since the impetus for a new website is tied up with ham radio, another New Skill that I am Learning. So, yeah, let&amp;rsquo;s just move this entirely into the procrastination column.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
