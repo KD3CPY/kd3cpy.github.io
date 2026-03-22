@@ -99,7 +99,7 @@ And with that Markdown sample, I have now also established that the light/dark t
 
 I haven't yet made any tweaks to assign alt text to images included in the frontmatter of posts: it looks eminently do-able, but is not a priority because those will probably just be decorative images. And it's possible I'll opt out of using them entirely, because without resizing them for card display they're potentially just a random splash of color. In any case, making changes to adjust the frontmatter images will count as more active mucking about than I want to do at the moment.
 
-![Screenshot of the card for this draft post, in dark mode. The middle of the rectangular Hugo logo is visible, about three-quarters of each of two hexagons, blue and green, with the letters U and G in white. Not a terribly illuminating image.](screenshot.png)
+![Screenshot of the card for this draft post, in dark mode. The middle of the rectangular Hugo logo is visible, about three-quarters of each of two hexagons, blue and green, with the letters U and G in white. Not a terribly illuminating image.](Screenshot.png)
 
 And before I look into alt text, I'd have to deal with sizing. I tried a 120 x 240 image, and the theme blew it way up to fill the width at the top of the post. Again, presumably I can figure out how to get the sort of responsiveness I want, but the much easier solution is to just...not call images in the frontmatter.
 
