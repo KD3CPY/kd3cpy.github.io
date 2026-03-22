@@ -49,7 +49,7 @@ defaultContentLanguage = "en"
   author = "KD3CPY"
   heroTitleLine1 = "A Little Ham Radio Site"
   heroTitleLine2 = "KD3CPY"
-  footerText = "Built with Hugo and the Mana theme.<a rel="me" href="https://mastodon.radio/@KD3CPY" /><a rel="me" href="https://github.com/KD3CPY" />"
+  footerText = "Built with Hugo and the Mana theme."
 
  #  [params.social]
  #    github = "https://github.com/KD3CPY"
