@@ -28,7 +28,7 @@ The most disturbing pro-AI arguments are those that propose some degree of consc
 
 This, to be clear, is science fiction (at best) or delusion (at worst). *But.* If your position is that an AI tool is a conscious being, then your ethical next step is to argue that the conscious being should be granted rights. Anybody who thinks their so-called AI is a silicon person deserving enslavement is a trash human being and their opinions on basically any subject should be discounted.
 
-A lot of weird, cult behavior comes out of the Silicon Valley mindset. It's wrapped up with eugenics and dark libertarianism and end-time fantasies and fascist impulses. Other, smarter, better-informed people make this point much better than I. (I recommend checking out the [DAIR Institute](https://www.dair-institute.org) folks.) It may not be obvious in the way so-called AI, or other tools/grifts are marketed, but if you scrape the surface, you'll find it.
+A lot of weird, cult behavior comes out of the Silicon Valley mindset. It's wrapped up with eugenics and dark libertarianism and end-time fantasies and fascist impulses. Other, smarter, better-informed people make this point much better than I. (I recommend checking out the [DAIR Institute](https://www.dair-institute.org) folks.) It may not be obvious in the way so-called AI or other tools/grifts are marketed, but if you scrape the surface, you'll find it.
 
 There are some creepy ideologies out there, with their basis in scientific racism and other crimes against humanity. Don't be creepy.
 ## In conclusion
