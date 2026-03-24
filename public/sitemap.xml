@@ -3,13 +3,113 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link
                rel="alternate"
                hreflang="en"
                href="http://localhost:1313/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/ai/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/ai/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/posts/ai/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/generative-ai/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/generative-ai/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/gigo/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/gigo/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/llm/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/llm/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/planet-destroying-plagiarism-machines/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/planet-destroying-plagiarism-machines/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/posts/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/slop/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/slop/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/spicy-autocorrect/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/spicy-autocorrect/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/"/>
   </url>
   <url>
     <loc>http://localhost:1313/posts/argh/</loc>
@@ -62,16 +162,6 @@
                href="http://localhost:1313/tags/neocities/"/>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/posts/"/>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/submodules/</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -80,16 +170,6 @@
                rel="alternate"
                hreflang="en"
                href="http://localhost:1313/tags/submodules/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/tags/"/>
   </url>
   <url>
     <loc>http://localhost:1313/posts/hugo/</loc>

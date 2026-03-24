@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/index.md",
+                "file": "content/posts/ai/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,21 +185,24 @@
   },
   "active": "0e712858a6ba1a4b",
   "lastOpenFiles": [
-    "content/posts/hugo/index.md",
-    "public/tags/submodules/index.xml",
-    "public/tags/submodules/index.html",
-    "public/tags/submodules",
-    "public/tags/cli/index.xml",
-    "public/tags/cli/index.html",
-    "public/tags/cli",
-    "public/images/logo.png.archive",
-    "public/posts/argh/index.md.archive",
+    "public/tags/slop/index.xml",
+    "public/tags/slop/index.html",
+    "public/tags/slop",
+    "public/tags/spicy-autocorrect/index.xml",
+    "public/tags/spicy-autocorrect/index.html",
+    "public/tags/spicy-autocorrect",
+    "public/tags/planet-destroying-plagiarism-machines/index.xml",
+    "public/tags/planet-destroying-plagiarism-machines/index.html",
+    "public/tags/planet-destroying-plagiarism-machines",
+    "public/tags/llm/index.xml",
+    "public/tags/llm/index.html",
+    "content/posts/ai/murderboard.jpg",
+    "content/posts/ai/tumblr_p6d7t7PgOh1w8kofeo1_1280.jpg",
     "content/about/index.md",
+    "content/posts/hugo/index.md",
     "content/posts/hugo/Screenshot.png",
     "content/posts/hugo/screenshot copy.png",
-    "content/images/logo.png.archive",
     "content/posts/argh/index.md",
-    "content/posts/argh/index.md.archive",
     "themes/mana/README.md",
     "content/posts/hugo/screenshot.png",
     "content/posts/first-post/index.md",
@@ -227,8 +230,6 @@
     "public/images/logo.png",
     "content/images/logo.png",
     "public/images/International_amateur_radio_symbol-120x240.png",
-    "content/images/International_amateur_radio_symbol-120x240.png",
-    "content/images/International_amateur_radio_symbol-240x480.png",
-    "content/about/International_amateur_radio_symbol-240x480.png"
+    "content/images/International_amateur_radio_symbol-120x240.png"
   ]
 }
