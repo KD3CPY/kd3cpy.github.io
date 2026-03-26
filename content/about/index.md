@@ -22,7 +22,7 @@ QSL: QRZ, LoTW
 [GitHub](https://github.com)  
 [Mastodon](https://mastodon.radio/@KD3CPY)  
 [Ravelry](https://www.ravelry.com/people/mhpm)
-
+## Rings
 Fediverse.Radio Web Ring  
 [← Back](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=previous) [↓ Ring Home](https://ring.fediverse.radio) [↑ Random](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=random) [Next →](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=next)
 
