@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/goals/index.md",
+                "file": "content/links/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,8 +185,10 @@
   },
   "active": "0e712858a6ba1a4b",
   "lastOpenFiles": [
-    "content/posts/ai/index.md",
     "content/posts/goals/index.md",
+    "content/links/index.md",
+    "content/links",
+    "content/posts/ai/index.md",
     "content/posts/goals",
     "public/tags/slop/index.xml",
     "public/tags/slop/index.html",
@@ -196,7 +198,6 @@
     "public/tags/spicy-autocorrect",
     "public/tags/planet-destroying-plagiarism-machines/index.xml",
     "public/tags/planet-destroying-plagiarism-machines/index.html",
-    "public/tags/planet-destroying-plagiarism-machines",
     "content/posts/ai/murderboard.jpg",
     "content/posts/ai/tumblr_p6d7t7PgOh1w8kofeo1_1280.jpg",
     "content/about/index.md",
@@ -225,7 +226,6 @@
     "node_modules/undici/docs/docs/api/Util.md",
     "node_modules/undici/docs/docs/api/Socks5ProxyAgent.md",
     "node_modules/undici/docs/docs/api/SnapshotAgent.md",
-    "node_modules/undici/docs/docs/api/RoundRobinPool.md",
     "content/about/FN20kb.png",
     "public/images/logo.png",
     "content/images/logo.png",
