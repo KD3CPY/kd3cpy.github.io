@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amateur Radio on A Little Ham Radio Site</title>
-    <link>http://localhost:1313/tags/amateur-radio/</link>
-    <description>Recent content in Amateur Radio on A Little Ham Radio Site</description>
+    <title>ARES on A Little Ham Radio Site</title>
+    <link>http://localhost:1313/tags/ares/</link>
+    <description>Recent content in ARES on A Little Ham Radio Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/amateur-radio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ares/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Goals for 2026</title>
       <link>http://localhost:1313/posts/goals/</link>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/goals/</guid>
       <description>&lt;p&gt;I earned my Technician&amp;rsquo;s license last month and since then I&amp;rsquo;ve accomplished a few minor ham-related things:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Immediately got on the air after passing the exam&lt;/li&gt;&#xA;&lt;li&gt;Sorted out the FCC and new socials and logbooks and this site&lt;/li&gt;&#xA;&lt;li&gt;Ordered an introductory radio to play with (Baofeng GT-5R)&lt;/li&gt;&#xA;&lt;li&gt;Ordered the &lt;em&gt;General Class License Manual&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Joined some mailing lists&lt;/li&gt;&#xA;&lt;li&gt;Joined some organizations: &lt;a href=&#34;https://www.phil-mont.org&#34;&gt;PMRC&lt;/a&gt;, &lt;a href=&#34;https://ylrl.net&#34;&gt;YLRL&lt;/a&gt;, and &lt;a href=&#34;https://allianceamateur.org&#34;&gt;AARN&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Attended an in-person meeting of Phil-Mont, the local club&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I have some reasonably solid near-term hobby goals:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;p&gt;Sometime in 2024, a person I follow on social media mentioned they were considering getting a ham radio license. This was a direct reaction to recent hurricanes, which had prompted this person to wonder what they could reasonably do in the event of natural disasters.&lt;/p&gt;&#xA;&lt;p&gt;That got me thinking about the same thing, and I came to a similar conclusion. Lots of practical tasks are outside of my wheelhouse or beyond my capabilities. But running comms? I could learn that.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

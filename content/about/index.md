@@ -24,4 +24,10 @@ QSL: QRZ, LoTW
 [Ravelry](https://www.ravelry.com/people/mhpm)
 
 Fediverse.Radio Web Ring  
-[← Back](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=previous) [↑ Random](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=random) [↓ Ring Home](https://ring.fediverse.radio) [Next →](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=next)
+[← Back](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=previous) [↓ Ring Home](https://ring.fediverse.radio) [↑ Random](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=random) [Next →](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=next)
+
+Fediring
+[← Back](https://fediring.net/previous?host=kd3cpy.github.io) [↓ Ring Home](https://fediring.net/) [↑ Random](https://fediring.net/random) [Next →](https://fediring.net/next?host=kd3cpy.github.io)
+
+The No AI Webring
+[← Back](https://baccyflap.com/noai/?prv&s=cpy) [↓ Ring Home](https://baccyflap.com/noai) [↑ Random](https://baccyflap.com/noai/?rnd) [Next →](https://baccyflap.com/noai/?nxt&s=cpy)

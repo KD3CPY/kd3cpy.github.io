@@ -6,8 +6,57 @@
     <description>Recent content in Tags on A Little Ham Radio Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amateur Radio</title>
+      <link>http://localhost:1313/tags/amateur-radio/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/amateur-radio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ARES</title>
+      <link>http://localhost:1313/tags/ares/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ares/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goals</title>
+      <link>http://localhost:1313/tags/goals/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/goals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ham Radio</title>
+      <link>http://localhost:1313/tags/ham-radio/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ham-radio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Making</title>
+      <link>http://localhost:1313/tags/making/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/making/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>POTA</title>
+      <link>http://localhost:1313/tags/pota/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pota/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Red Cross</title>
+      <link>http://localhost:1313/tags/red-cross/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/red-cross/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
       <link>http://localhost:1313/tags/ai/</link>
@@ -111,20 +160,6 @@
       <link>http://localhost:1313/tags/zed/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/zed/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Amateur Radio</title>
-      <link>http://localhost:1313/tags/amateur-radio/</link>
-      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/amateur-radio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ham Radio</title>
-      <link>http://localhost:1313/tags/ham-radio/</link>
-      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ham-radio/</guid>
       <description></description>
     </item>
   </channel>
