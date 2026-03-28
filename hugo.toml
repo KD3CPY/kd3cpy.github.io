@@ -51,9 +51,9 @@ defaultContentLanguage = "en"
   heroTitleLine2 = "KD3CPY"
   footerText = "Built with Hugo and the Mana theme."
 
- #  [params.social]
- #    github = "https://github.com/KD3CPY"
- #    mastodon = "https://mastodon.radio/@KD3CPY"
+[params.social]
+     github = "https://github.com/KD3CPY"
+     mastodon = "https://mastodon.radio/@KD3CPY"
 
   [params.buyMeACoffee]
     enabled = false
