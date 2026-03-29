@@ -3,6 +3,7 @@ date = '2026-03-15'
 draft = false
 title = 'First post'
 tags = ['ham radio','amateur radio']
+author = 'KD3CPY'
 +++
 
 Sometime in 2024, a person I follow on social media mentioned they were considering getting a ham radio license. This was a direct reaction to recent hurricanes, which had prompted this person to wonder what they could reasonably do in the event of natural disasters. 

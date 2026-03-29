@@ -10,37 +10,37 @@
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Goals for 2026</title>
-      <link>http://localhost:1313/posts/goals/</link>
+      <link>http://localhost:1313/posts/2026-03-goals/</link>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/goals/</guid>
+      <guid>http://localhost:1313/posts/2026-03-goals/</guid>
       <description>&lt;p&gt;I earned my Technician&amp;rsquo;s license last month and since then I&amp;rsquo;ve accomplished a few minor ham-related things:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Immediately got on the air after passing the exam&lt;/li&gt;&#xA;&lt;li&gt;Sorted out the FCC and new socials and logbooks and this site&lt;/li&gt;&#xA;&lt;li&gt;Ordered an introductory radio to play with (Baofeng GT-5R)&lt;/li&gt;&#xA;&lt;li&gt;Ordered the &lt;em&gt;General Class License Manual&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Joined some mailing lists&lt;/li&gt;&#xA;&lt;li&gt;Joined some organizations: &lt;a href=&#34;https://www.phil-mont.org&#34;&gt;PMRC&lt;/a&gt;, &lt;a href=&#34;https://ylrl.net&#34;&gt;YLRL&lt;/a&gt;, and &lt;a href=&#34;https://allianceamateur.org&#34;&gt;AARN&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Attended an in-person meeting of Phil-Mont, the local club&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I have some reasonably solid near-term hobby goals:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brief thoughts on so-called AI</title>
-      <link>http://localhost:1313/posts/ai/</link>
+      <link>http://localhost:1313/posts/2026-03-ai/</link>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ai/</guid>
+      <guid>http://localhost:1313/posts/2026-03-ai/</guid>
       <description>&lt;h2 id=&#34;tldr&#34;&gt;tl;dr&lt;/h2&gt;&#xA;&lt;p&gt;Anything you read on this website is written by me, a human person. I don&amp;rsquo;t use so-called AI tools. No generative AI, no LLMs, no ChatGPT, no Midjourney, no Grammarly, none of it. (I&amp;rsquo;m using these terms somewhat interchangeably, to indicate a certain type of product deceptively marketed as &amp;ldquo;AI&amp;rdquo; since around 2022. I&amp;rsquo;m not touching on the much more complicated, interesting, and appropriately-named AI.)&lt;/p&gt;&#xA;&lt;h2 id=&#34;this-stuff-is-really-really-bad&#34;&gt;This stuff is really, really bad&lt;/h2&gt;&#xA;&lt;p&gt;Data centers are really harmful ecologically. They are (surprise!) often most directly harmful to marginalized communities, so it&amp;rsquo;s a matter of environmental justice as well as general stewardship of the planet (which is&amp;hellip;not currently a strong suit of &lt;em&gt;H. s. sapiens&lt;/em&gt;). There&amp;rsquo;s a lot of human labor that goes into &amp;ldquo;automated&amp;rdquo; processes. Many of these workers are exploited and there&amp;rsquo;s an echo of old colonial patterns. (And that&amp;rsquo;s even before you get into the moral and labor issues of the provenance of data sets.) The AI fad, following so closely upon the face-plant of NFTs, is simply another tech bubble. A few rich people will cash out and leave everyone else to deal with the economic fallout.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Argh</title>
-      <link>http://localhost:1313/posts/argh/</link>
+      <link>http://localhost:1313/posts/2026-03-argh/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/argh/</guid>
+      <guid>http://localhost:1313/posts/2026-03-argh/</guid>
       <description>&lt;p&gt;When &lt;a href=&#34;http://localhost:1313/posts/hugo/&#34;&gt;last I posted&lt;/a&gt;, I was discussing the upcoming&amp;mdash;and doubtless straightforward&amp;mdash;process of getting this site actually online. The local copy worked, everything looked good, there existed documentation to move things from point A to point B, where point B is GitHub.&lt;/p&gt;&#xA;&lt;p&gt;Suffice to say that this has been more of a learning experience than I hoped. I established that the Neocities &lt;a href=&#34;https://neocities.org/cli&#34;&gt;CLI push option&lt;/a&gt; was good for nothing but generating errors and having issues with Ruby (and &lt;code&gt;ruby -v&lt;/code&gt; and Homebrew have different ideas of which version is installed&amp;hellip;) Third party Neocities options also weren&amp;rsquo;t working, and I&amp;rsquo;m not in a position to tell if it&amp;rsquo;s user error or something actually broken. So I went back to my maybe-just-do-GitHub-Pages plan.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adventures with Hugo</title>
-      <link>http://localhost:1313/posts/hugo/</link>
+      <link>http://localhost:1313/posts/2026-03-hugo/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugo/</guid>
+      <guid>http://localhost:1313/posts/2026-03-hugo/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve had a number of different websites&amp;mdash;handcoded (pre-CSS), self-hosted Movable Type and WordPress, hosted WordPress, idle play with Drupal, handcoded (with CSS) in a recent spate of nostalgia, etc.&amp;mdash;and decided I&amp;rsquo;d try a static site generator. It&amp;rsquo;s been a while since I&amp;rsquo;ve Learned A New Skill, and I guess I was in need of a new distraction/hyperfocus.&lt;/p&gt;&#xA;&lt;p&gt;Well. &amp;ldquo;Need&amp;rdquo; is perhaps a strong word.&lt;/p&gt;&#xA;&lt;p&gt;Especially since the impetus for a new website is tied up with ham radio, another New Skill that I am Learning. So, yeah, let&amp;rsquo;s just move this entirely into the procrastination column.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>http://localhost:1313/posts/2026-03-first-post/</link>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/2026-03-first-post/</guid>
       <description>&lt;p&gt;Sometime in 2024, a person I follow on social media mentioned they were considering getting a ham radio license. This was a direct reaction to recent hurricanes, which had prompted this person to wonder what they could reasonably do in the event of natural disasters.&lt;/p&gt;&#xA;&lt;p&gt;That got me thinking about the same thing, and I came to a similar conclusion. Lots of practical tasks are outside of my wheelhouse or beyond my capabilities. But running comms? I could learn that.&lt;/p&gt;</description>
     </item>
   </channel>

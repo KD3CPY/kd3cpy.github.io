@@ -3,6 +3,7 @@ date = '2026-03-24'
 draft = false
 title = 'Brief thoughts on so-called AI'
 tags = ['AI','generative AI','GIGO','LLM','planet-destroying plagiarism machines','slop','spicy autocorrect']
+author = 'KD3CPY'
 +++
 
 ## tl;dr

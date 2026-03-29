@@ -3,6 +3,7 @@ date = '2026-03-26'
 draft = false
 title = 'Goals for 2026'
 tags = ['ham radio','amateur radio','making','POTA','ARES','Red Cross','goals']
+author = 'KD3CPY'
 +++
 
 I earned my Technician's license last month and since then I've accomplished a few minor ham-related things:

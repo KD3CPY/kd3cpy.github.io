@@ -4,7 +4,7 @@ draft = false
 title = 'Adventures with Hugo'
 tags = ['hugo','obsidian','zed','markdown','github']
 image = 'hugo-logo-wide.svg'
-author = Megan KD3CPY
+author = 'KD3CPY'
 +++
 # Introduction
 
