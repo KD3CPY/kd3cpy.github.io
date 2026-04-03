@@ -22,6 +22,17 @@ QSL: QRZ, LoTW
 [GitHub](https://github.com)  
 [Mastodon](https://mastodon.radio/@KD3CPY)  
 [Ravelry](https://www.ravelry.com/people/mhpm)
+## Links
+
+### Miscellaneous sites
+[Blogs.Radio](https://blogs.radio)
+
+### People
+[Christopher](https://m0yng.uk) M0YNG  
+[Ian Renton](https://ianrenton.com) M0TRT  
+[Jeff Golas](https://www.junknet.net) KC3GJX  
+[Troy Fisher](https://tdot.fish) KD3BTG  
+[Victoria](https://k8vsy.radio) K8VSY  
 ## Rings
 Fediverse.Radio Web Ring  
 [← Back](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=previous) [↓ Ring Home](https://ring.fediverse.radio) [↑ Random](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=random) [Next →](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=next)

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link
@@ -13,13 +13,103 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/amateur-radio/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
     <xhtml:link
                rel="alternate"
                hreflang="en"
                href="http://localhost:1313/tags/amateur-radio/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/fort-washington-state-park/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/fort-washington-state-park/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/ham-radio/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/ham-radio/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/pmrc/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/pmrc/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/posts/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/pota/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/pota/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/potamania/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/potamania/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2026-04-potafest/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/posts/2026-04-potafest/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/spring-pota-fest/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/spring-pota-fest/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/"/>
   </url>
   <url>
     <loc>http://localhost:1313/tags/ares/</loc>
@@ -52,16 +142,6 @@
                href="http://localhost:1313/posts/2026-03-goals/"/>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/ham-radio/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/tags/ham-radio/"/>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/making/</loc>
     <lastmod>2026-03-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -72,26 +152,6 @@
                href="http://localhost:1313/tags/making/"/>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/posts/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/pota/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/tags/pota/"/>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/red-cross/</loc>
     <lastmod>2026-03-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -100,16 +160,6 @@
                rel="alternate"
                hreflang="en"
                href="http://localhost:1313/tags/red-cross/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/tags/"/>
   </url>
   <url>
     <loc>http://localhost:1313/tags/ai/</loc>

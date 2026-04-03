@@ -99,6 +99,8 @@ defaultContentLanguage = "en"
   url = "/about/"
   weight = 40
 
+# Can add additional menu items (like Links) but currently styled as a post
+
 # Added for GitHub Pages
 
 [caches]
