@@ -371,15 +371,5 @@
                hreflang="en"
                href="http://localhost:1313/categories/"/>
   </url>
-  <url>
-    <loc>http://localhost:1313/links/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/links/"/>
-  </url>
   
 </urlset>

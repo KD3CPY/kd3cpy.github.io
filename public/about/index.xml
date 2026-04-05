@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/about/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/links/</guid>
+      <description>&lt;h1 id=&#34;artisinal-web-cartography&#34;&gt;Artisinal web cartography&lt;/h1&gt;&#xA;&lt;p&gt;Every day, some piece of the internet enshittifies a little more. We just can&amp;rsquo;t have nice things. In an attempt to stave off entropy and slopification, it&amp;rsquo;s time to start using links pages, blogrolls, and webrings again.&lt;/p&gt;&#xA;&lt;h1 id=&#34;interesting-sites&#34;&gt;Interesting sites&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blogs.radio&#34;&gt;Blogs.Radio&lt;/a&gt;&#xA;&lt;a href=&#34;https://qrper.com&#34;&gt;QRPer.com&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://swling.com/&#34;&gt;The SWLing Post&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;interesting-people&#34;&gt;Interesting People&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://m0yng.uk&#34;&gt;Christopher&lt;/a&gt; M0YNG&lt;br&gt;&#xA;&lt;a href=&#34;https://ianrenton.com&#34;&gt;Ian Renton&lt;/a&gt; M0TRT&lt;br&gt;&#xA;&lt;a href=&#34;https://www.junknet.net&#34;&gt;Jeff Golas&lt;/a&gt; KC3GJX&lt;br&gt;&#xA;&lt;a href=&#34;https://tdot.fish&#34;&gt;Troy Fisher&lt;/a&gt; KD3BTG&lt;br&gt;&#xA;&lt;a href=&#34;https://k8vsy.radio&#34;&gt;Victoria&lt;/a&gt; K8VSY&lt;/p&gt;&#xA;&lt;h1 id=&#34;rings&#34;&gt;Rings&lt;/h1&gt;&#xA;&lt;p&gt;Fediverse.Radio Web Ring&lt;br&gt;&#xA;&lt;a href=&#34;https://ring.fediverse.radio/ring.php?site=kd3cpy&amp;amp;direction=previous&#34;&gt;← Back&lt;/a&gt; &lt;a href=&#34;https://ring.fediverse.radio&#34;&gt;↓ Ring Home&lt;/a&gt; &lt;a href=&#34;https://ring.fediverse.radio/ring.php?site=kd3cpy&amp;amp;direction=random&#34;&gt;↑ Random&lt;/a&gt; &lt;a href=&#34;https://ring.fediverse.radio/ring.php?site=kd3cpy&amp;amp;direction=next&#34;&gt;Next →&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fediring&lt;br&gt;&#xA;&lt;a href=&#34;https://fediring.net/previous?host=kd3cpy.github.io&#34;&gt;← Back&lt;/a&gt; &lt;a href=&#34;https://fediring.net/&#34;&gt;↓ Ring Home&lt;/a&gt; &lt;a href=&#34;https://fediring.net/random&#34;&gt;↑ Random&lt;/a&gt; &lt;a href=&#34;https://fediring.net/next?host=kd3cpy.github.io&#34;&gt;Next →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
