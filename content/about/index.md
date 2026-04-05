@@ -19,14 +19,15 @@ QSL: QRZ, LoTW
 [Young Ladies Radio League](https://ylrl.net)
 # Socials
 [Bluesky](https://bsky.app/profile/kd3cpy.bsky.social)  
-[GitHub](https://github.com)  
+[GitHub](https://github.com/KD3CPY)  
 [Mastodon](https://mastodon.radio/@KD3CPY)  
 [Ravelry](https://www.ravelry.com/people/mhpm)
 ## Links
 
 ### Miscellaneous sites
 [Blogs.Radio](https://blogs.radio)
-
+[QRPer.com](https://qrper.com)  
+[The SWLing Post](https://swling.com/)  
 ### People
 [Christopher](https://m0yng.uk) M0YNG  
 [Ian Renton](https://ianrenton.com) M0TRT  

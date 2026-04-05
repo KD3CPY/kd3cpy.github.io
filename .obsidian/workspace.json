@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-04-potafest/index.md",
+                "file": "content/links/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,17 +185,17 @@
   },
   "active": "0e712858a6ba1a4b",
   "lastOpenFiles": [
+    "content/links.md",
+    "content/links/index.md",
+    "content/about/index.md",
+    "content/posts/2026-04-potafest/index.md",
     "public/posts/2026-04-potafest/fort_washington_600w.jpg",
     "content/posts/2026-04-potafest/fort_washington_600w.jpg",
     "public/posts/2026-04-potafest/PXL_20260328_191601547.jpg",
     "content/posts/2026-04-potafest/PXL_20260328_191601547.jpg",
     "public/posts/2026-04-potafest/fort_washington_500w.jpg",
     "content/posts/2026-03-hugo/index.md",
-    "content/posts/2026-04-potafest/index.md",
     "content/posts/2026-04-potafest/fort_washington_500w.jpg",
-    "content/about/index.md",
-    "content/links/index.md",
-    "content/links.md",
     "content/linkssss.md",
     "public/linkssss/index.html",
     "public/linkssss",
@@ -203,7 +203,6 @@
     "content/posts/2026-04-potafest/pota-banner.jpg",
     "public/pota-banner.jpg",
     "content/pota-banner.jpg",
-    "content/images/pota-128x128.png",
     "public/tags/potamania/index.xml",
     "public/tags/potamania/index.html",
     "public/tags/potamania",
