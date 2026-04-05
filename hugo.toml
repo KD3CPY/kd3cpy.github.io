@@ -95,11 +95,14 @@ defaultContentLanguage = "en"
   weight = 30
 
 [[menus.main]]
-  name = "About"
-  url = "/about/"
+  name = "Links"
+  url = "/about/links/"
   weight = 40
 
-# Can add additional menu items (like Links) but currently styled as a post
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 50
 
 # Added for GitHub Pages
 
