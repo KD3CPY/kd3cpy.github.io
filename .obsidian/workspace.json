@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "065c1394a87b7707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/about/links/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +198,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "0e712858a6ba1a4b",
+  "active": "065c1394a87b7707",
   "lastOpenFiles": [
-    "content/links.md",
+    "links.md",
+    "content/about/Untitled/index.md",
+    "content/about/links/index.md",
+    "content/about/links",
+    "Untitled.md",
     "content/links/index.md",
+    "content/about/Untitled",
     "content/about/index.md",
     "content/posts/2026-04-potafest/index.md",
     "public/posts/2026-04-potafest/fort_washington_600w.jpg",
@@ -209,11 +229,8 @@
     "public/tags/spring-pota-fest/index.xml",
     "public/tags/spring-pota-fest/index.html",
     "public/tags/spring-pota-fest",
-    "public/tags/pmrc/index.xml",
-    "public/tags/pmrc/index.html",
     "content/posts/2026-03-ai/index.md",
     "content/index.md",
-    "content/about/links/index.md",
     "content/about/links.md",
     "content/posts/2026-03-argh/index.md",
     "content/posts/2026-03-first-post/index.md",
@@ -227,8 +244,6 @@
     "node_modules/neocities/README.md",
     "node_modules/argsclopts/README.md",
     "node_modules/argsclopts/CONTRIBUTING.md",
-    "node_modules/argsclopts/CHANGELOG.md",
-    "node_modules/@types/combined-stream/README.md",
-    "node_modules/undici/README.md"
+    "node_modules/argsclopts/CHANGELOG.md"
   ]
 }

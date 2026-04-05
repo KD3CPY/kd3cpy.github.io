@@ -1,8 +1,9 @@
 +++
 title = 'Links'
+draft = 'false'
 +++
 
-This is the links.md
+This is the about/links/links.md
 ## Webrings
 
 Fediverse.Radio Web Ring  
