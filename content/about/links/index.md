@@ -5,7 +5,7 @@ draft = 'false'
 # Artisinal web cartography
 Every day, some piece of the internet enshittifies a little more. We just can't have nice things. In an attempt to stave off entropy and slopification, it's time to start using links pages, blogrolls, and webrings again.
 # Interesting sites
-[Blogs.Radio](https://blogs.radio)
+[Blogs.Radio](https://blogs.radio)  
 [QRPer.com](https://qrper.com)  
 [The SWLing Post](https://swling.com/)  
 # Interesting People
