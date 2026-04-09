@@ -8,7 +8,8 @@ Every day, some piece of the internet enshittifies a little more. We just can't 
 [Blogs.Radio](https://blogs.radio)  
 [QRPer.com](https://qrper.com)  
 [The SWLing Post](https://swling.com/)  
-# Interesting People
+[WA3DSP's Amateur Radio Resources](https://wa3dsp.org)  
+# Interesting people
 [Christopher](https://m0yng.uk) M0YNG  
 [Ian Renton](https://ianrenton.com) M0TRT  
 [Jeff Golas](https://www.junknet.net) KC3GJX  
@@ -20,6 +21,9 @@ Fediverse.Radio Web Ring
 
 Fediring  
 [← Back](https://fediring.net/previous?host=kd3cpy.github.io) [↓ Ring Home](https://fediring.net/) [↑ Random](https://fediring.net/random) [Next →](https://fediring.net/next?host=kd3cpy.github.io)
-
+🏠
 The No AI Webring  
 [← Back](https://baccyflap.com/noai/?prv&s=cpy) [↓ Ring Home](https://baccyflap.com/noai) [↑ Random](https://baccyflap.com/noai/?rnd) [Next →](https://baccyflap.com/noai/?nxt&s=cpy)
+
+The Geekring  
+[← Back](http://geekring.net/site/591/previous) [↓ Ring Home](https://geekring.net) [↑ Random](http://geekring.net/site/591/random) [Next →](http://geekring.net/site/591/next)

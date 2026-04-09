@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/index.md",
+                "file": "content/about/links/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "43b379b56d10cbce",
@@ -185,8 +185,8 @@
   },
   "active": "065c1394a87b7707",
   "lastOpenFiles": [
-    "content/about/links/index.md",
     "content/about/index.md",
+    "content/about/links/index.md",
     "Untitled.md",
     "links.md",
     "content/about/Untitled/index.md",

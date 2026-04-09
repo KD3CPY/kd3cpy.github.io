@@ -8,7 +8,7 @@ License: Technician (February 2026)
 Grid square: FN20kb  
 QSL: QRZ, LoTW
 # About me
-I (Megan) live in the suburbs of Philadelphia along with the spouse, kids, and dogs. I have an academic background in the humanities (specifically history) which has actually been relevant for some of the jobs I've held in the past. I've also been a professional webmonkey and data wrangler, which was more on the self-taught, fell-into-it side of things. I use she/her pronouns.
+I (Megan, she/her) live in the suburbs of Philadelphia along with the spouse, kids, and dogs. I have an academic background in the humanities (specifically history) which has actually been relevant for some of the jobs I've held in the past. I've also been a professional webmonkey and data wrangler, which was more on the self-taught, fell-into-it side of things.
 
 Amateur radio is a new interest. I want to be able to get on the air to help in case of emergencies, and I also want to try building some equipment. Repair skills are useful, and maybe I'll be a fan of the making side of things. [I'm proudly making the Amateur Radio Inclusivity Pledge.](https://www.amateurradioinclusivitypledge.org)
 
