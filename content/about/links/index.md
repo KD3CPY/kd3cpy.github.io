@@ -16,14 +16,14 @@ Every day, some piece of the internet enshittifies a little more. We just can't 
 [Troy Fisher](https://tdot.fish) KD3BTG  
 [Victoria](https://k8vsy.radio) K8VSY  
 # Rings
-Fediverse.Radio Web Ring  
-[← Back](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=previous) [↓ Ring Home](https://ring.fediverse.radio) [↑ Random](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=random) [Next →](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=next)
+**[Fediverse.Radio Webring](https://ring.fediverse.radio)**  
+[← Back](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=previous) [? Random](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=random) [Next →](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=next)
 
-Fediring  
-[← Back](https://fediring.net/previous?host=kd3cpy.github.io) [↓ Ring Home](https://fediring.net/) [↑ Random](https://fediring.net/random) [Next →](https://fediring.net/next?host=kd3cpy.github.io)
-🏠
-The No AI Webring  
-[← Back](https://baccyflap.com/noai/?prv&s=cpy) [↓ Ring Home](https://baccyflap.com/noai) [↑ Random](https://baccyflap.com/noai/?rnd) [Next →](https://baccyflap.com/noai/?nxt&s=cpy)
+**[Fediring](https://fediring.net)**  
+[← Back](https://fediring.net/previous?host=kd3cpy.github.io) [? Random](https://fediring.net/random) [Next →](https://fediring.net/next?host=kd3cpy.github.io)
 
-The Geekring  
-[← Back](http://geekring.net/site/591/previous) [↓ Ring Home](https://geekring.net) [↑ Random](http://geekring.net/site/591/random) [Next →](http://geekring.net/site/591/next)
+**[The No AI Webring](https://baccyflap.com/noai/)**    
+[← Back](https://baccyflap.com/noai/?prv&s=cpy) [? Random](https://baccyflap.com/noai/?rnd) [Next →](https://baccyflap.com/noai/?nxt&s=cpy)
+
+**[The Geekring](https://geekring.net)**  
+[← Back](http://geekring.net/site/591/previous) [? Random](http://geekring.net/site/591/random) [Next →](http://geekring.net/site/591/next)
