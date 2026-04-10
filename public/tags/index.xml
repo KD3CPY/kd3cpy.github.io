@@ -6,13 +6,55 @@
     <description>Recent content in Tags on A Little Ham Radio Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1950s</title>
+      <link>http://localhost:1313/tags/1950s/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/1950s/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Amateur Radio</title>
       <link>http://localhost:1313/tags/amateur-radio/</link>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/amateur-radio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ham Radio</title>
+      <link>http://localhost:1313/tags/ham-radio/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ham-radio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/tags/history/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jim Spencer</title>
+      <link>http://localhost:1313/tags/jim-spencer/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/jim-spencer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PMRC</title>
+      <link>http://localhost:1313/tags/pmrc/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pmrc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Silent Keys</title>
+      <link>http://localhost:1313/tags/silent-keys/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/silent-keys/</guid>
       <description></description>
     </item>
     <item>
@@ -20,20 +62,6 @@
       <link>http://localhost:1313/tags/fort-washington-state-park/</link>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/fort-washington-state-park/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ham Radio</title>
-      <link>http://localhost:1313/tags/ham-radio/</link>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ham-radio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PMRC</title>
-      <link>http://localhost:1313/tags/pmrc/</link>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pmrc/</guid>
       <description></description>
     </item>
     <item>

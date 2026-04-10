@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>History on A Little Ham Radio Site</title>
+    <link>http://localhost:1313/tags/history/</link>
+    <description>Recent content in History on A Little Ham Radio Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So that’s where the “mobile” comes from</title>
+      <link>http://localhost:1313/posts/2026-04-mobile/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026-04-mobile/</guid>
+      <description>&lt;p&gt;I wasn&amp;rsquo;t entirely certain where the &amp;ldquo;mobile&amp;rdquo; portion of the Phil-Mont Mobile Radio Club&amp;rsquo;s name came from. I guess I had assumed &amp;ldquo;mobile&amp;rdquo; was more of a stand-in for &amp;ldquo;the rig is small enough it can be removed from the shack,&amp;rdquo; but nope. The &amp;ldquo;mobile&amp;rdquo; was for hams who very much wanted to be on-air while on the go, not just after having moved from point A to point B. Now, gentle reader, I invite you to accompany me into the 1950s.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
