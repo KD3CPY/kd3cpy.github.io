@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-04-mobile/index.md",
+                "file": "content/about/links/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,10 +200,10 @@
   },
   "active": "663f4a68f32c2511",
   "lastOpenFiles": [
-    "content/posts/2026-04-mobile/pmrc-banner.png",
-    "content/posts/2026-04-mobile/index.md",
-    "content/about/links/index.md",
     "content/about/index.md",
+    "content/about/links/index.md",
+    "content/posts/2026-04-mobile/index.md",
+    "content/posts/2026-04-mobile/pmrc-banner.png",
     "public/posts/2026-04-mobile/pmrc-banner.png",
     "public/tags/silent-keys/index.xml",
     "public/tags/silent-keys/index.html",

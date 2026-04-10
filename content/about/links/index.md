@@ -1,6 +1,6 @@
 +++
 title = 'Links'
-draft = 'false'
+draft = false
 +++
 # Artisanal web cartography
 Every day, some piece of the internet enshittifies a little more. We just can't have nice things. In an attempt to stave off entropy and slopification, it's time to start using links pages, blogrolls, and webrings again.
