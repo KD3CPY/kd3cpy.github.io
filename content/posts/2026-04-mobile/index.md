@@ -7,7 +7,9 @@ image = 'pmrc-banner.png'
 author = 'KD3CPY'
 +++
 
-I wasn't entirely certain where the "mobile" portion of the Phil-Mont Mobile Radio Club's name came from. I guess I had assumed "mobile" was more of a stand-in for "the rig is small enough it can be removed from the shack," but nope. The "mobile" was for hams who very much wanted to be on-air while on the go, not just after having moved from point A to point B. Now, gentle reader, I invite you to accompany me into the 1950s.
+I wasn't entirely certain where the "mobile" portion of the Phil-Mont Mobile Radio Club's name came from. I guess I had assumed "mobile" was more of a stand-in for "the rig is small enough it can be removed from the shack," but nope. The "mobile" was for hams who very much wanted to be on-air while on the go, not just after having moved from point A to point B. 
+
+Now, gentle reader, I invite you to accompany me into the 1950s.
 
 One section of the Phil-Mont website is devoted to the repeaters and includes a link to more information about Jim Spencer. That link leads to the [December 2006](https://www.phil-mont.org/repeaters/jim_spencer_blurbv56n12.pdf) issue of the club newsletter, *The Blurb*, which is largely devoted to a remembrance of Spencer W3BBB SK. He was a charter member of the club, a builder, involved with ham activities at the Franklin Institute, a tamer of CB users, and seriously into mobile communication centers. Based on this newsletter, if a bus or bookmobile parked near this guy for too long, pretty soon you'd hear it on 10 meters.
 
