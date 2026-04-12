@@ -30,4 +30,4 @@ Every day, some piece of the internet enshittifies a little more. We just can't 
 [← Back](http://geekring.net/site/591/previous) [? Random](http://geekring.net/site/591/random) [Next →](http://geekring.net/site/591/next)  
 
 **[Static.Quest](https://static.quest)**  
-[← Back](https://static.quest/previous/?host=kd3cpy.github.io) [? Random](https://static.quest/random) [Next →](https://static.quest/next/?host=kd3cpy.github.io)  
+[← Back](https://static.quest/previous/?host=kd3cpy.github.io) [? Random](https://static.quest/random) [Next →](https://static.quest/next/?host=kd3cpy.github.io)
