@@ -13,8 +13,9 @@ Every day, some piece of the internet enshittifies a little more. We just can't 
 [Christopher](https://m0yng.uk) M0YNG  
 [Ian Renton](https://ianrenton.com) M0TRT  
 [Jeff Golas](https://www.junknet.net) KC3GJX  
+[Ron Schwartz](https://ve3vn.blogspot.com) VE3VN  
 [Troy Fisher](https://tdot.fish) KD3BTG  
-[Victoria](https://k8vsy.radio) K8VSY  
+[Victoria Yanovich](https://k8vsy.radio) K8VSY  
 # Rings
 **[Fediverse.Radio Webring](https://ring.fediverse.radio)**  
 [← Back](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=previous) [? Random](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=random) [Next →](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=next)
@@ -26,4 +27,7 @@ Every day, some piece of the internet enshittifies a little more. We just can't 
 [← Back](https://baccyflap.com/noai/?prv&s=cpy) [? Random](https://baccyflap.com/noai/?rnd) [Next →](https://baccyflap.com/noai/?nxt&s=cpy)
 
 **[The Geekring](https://geekring.net)**  
-[← Back](http://geekring.net/site/591/previous) [? Random](http://geekring.net/site/591/random) [Next →](http://geekring.net/site/591/next)
+[← Back](http://geekring.net/site/591/previous) [? Random](http://geekring.net/site/591/random) [Next →](http://geekring.net/site/591/next)  
+
+**[Static.Quest](https://static.quest)**  
+[← Back](https://static.quest/previous/?host=kd3cpy.github.io) [? Random](https://static.quest/random) [Next →](https://static.quest/next/?host=kd3cpy.github.io)  
