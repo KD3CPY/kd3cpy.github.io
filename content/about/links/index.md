@@ -26,8 +26,8 @@ Every day, some piece of the internet enshittifies a little more. We just can't 
 **[The No AI Webring](https://baccyflap.com/noai/)**    
 [← Back](https://baccyflap.com/noai/?prv&s=cpy) [? Random](https://baccyflap.com/noai/?rnd) [Next →](https://baccyflap.com/noai/?nxt&s=cpy)
 
-**[Static.Quest](https://static.quest)**  
-[← Back](https://static.quest/previous/?host=kd3cpy.github.io) [? Random](https://static.quest/random) [Next →](https://static.quest/next/?host=kd3cpy.github.io)
-
 **[The Geekring](https://geekring.net)**  
 [← Back](http://geekring.net/site/591/previous) [? Random](http://geekring.net/site/591/random) [Next →](http://geekring.net/site/591/next)
+
+**[Static.Quest](https://static.quest)**  
+[← Back](https://static.quest/previous/?host=kd3cpy.github.io) [? Random](https://static.quest/random) [Next →](https://static.quest/next/?host=kd3cpy.github.io)
