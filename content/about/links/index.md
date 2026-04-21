@@ -16,7 +16,7 @@ Every day, some piece of the internet enshittifies a little more. We just can't 
 [Ron Schwartz](https://ve3vn.blogspot.com) VE3VN  
 [Troy Fisher](https://tdot.fish) KD3BTG  
 [Victoria Yanovich](https://k8vsy.radio) K8VSY  
-# Rings
+# Webrings
 **[Fediverse.Radio Webring](https://ring.fediverse.radio)**  
 [← Back](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=previous) [? Random](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=random) [Next →](https://ring.fediverse.radio/ring.php?site=kd3cpy&direction=next)
 

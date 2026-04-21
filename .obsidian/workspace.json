@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/links/index.md",
+                "file": "content/posts/2026-04-general/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,21 +185,25 @@
   },
   "active": "24c1dca307f7625a",
   "lastOpenFiles": [
+    "public/tags/qdx/index.xml",
+    "public/tags/qdx/index.html",
+    "public/tags/qdx",
+    "public/tags/licensing/index.xml",
+    "public/tags/licensing/index.html",
+    "public/tags/licensing",
+    "public/tags/general-class/index.xml",
+    "public/tags/general-class/index.html",
+    "public/tags/general-class",
+    "public/posts/2026-04-general/index.html",
+    "public/posts/2026-04-general",
     "content/about/index.md",
+    "content/posts/2026-04-general/index.md",
+    "content/about/bibliography/index.md",
     "content/about/links/index.md",
+    "content/about/bibliography.md",
     "content/posts/2026-04-mobile/index.md",
     "content/posts/2026-04-mobile/pmrc-banner.png",
     "public/posts/2026-04-mobile/pmrc-banner.png",
-    "public/tags/silent-keys/index.xml",
-    "public/tags/silent-keys/index.html",
-    "public/tags/silent-keys",
-    "public/tags/jim-spencer/index.xml",
-    "public/tags/jim-spencer/index.html",
-    "public/tags/jim-spencer",
-    "public/tags/history/index.xml",
-    "public/tags/history/index.html",
-    "public/tags/history",
-    "public/posts/2026-04-mobile/index.html",
     "Untitled 1.md",
     "content/posts/2026-mobile/index.md",
     "content/posts/2026-04-potafest/index.md",
@@ -226,9 +230,6 @@
     "content/posts/ai/index.md",
     "content/posts/goals/index.md",
     "content/posts/hugo/index.md",
-    "content/posts/argh/index.md",
-    "themes/mana/README.md",
-    "content/posts/first-post/index.md",
-    "node_modules/neocities/README.md"
+    "content/posts/argh/index.md"
   ]
 }
