@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-04-general/index.md",
+                "file": "content/about/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,6 +185,7 @@
   },
   "active": "24c1dca307f7625a",
   "lastOpenFiles": [
+    "content/posts/2026-04-general/index.md",
     "public/tags/qdx/index.xml",
     "public/tags/qdx/index.html",
     "public/tags/qdx",
@@ -195,9 +196,7 @@
     "public/tags/general-class/index.html",
     "public/tags/general-class",
     "public/posts/2026-04-general/index.html",
-    "public/posts/2026-04-general",
     "content/about/index.md",
-    "content/posts/2026-04-general/index.md",
     "content/about/bibliography/index.md",
     "content/about/links/index.md",
     "content/about/bibliography.md",

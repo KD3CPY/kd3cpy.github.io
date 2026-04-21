@@ -4,7 +4,7 @@ title = 'About'
 +++
 # Ham radio
 Call sign: KD3CPY  
-License: General 
+License: General  
 Grid square: FN20kb  
 QSL: QRZ, LoTW
 # About me
