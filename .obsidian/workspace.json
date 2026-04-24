@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/index.md",
+                "file": "content/posts/2026-04-getting-started-with-amateur-radio-repeaters/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,6 +186,12 @@
   "active": "24c1dca307f7625a",
   "lastOpenFiles": [
     "content/posts/2026-04-general/index.md",
+    "content/posts/2026-04-getting-started-with-amateur-radio-repeaters/index.md",
+    "content/posts/2026-04-getting-started-with-repeaters/index.md",
+    "content/posts/2026-04-getting-started-with-amateur-radio-repeaters",
+    "content/posts/2026-04-getting-started-with-repeaters",
+    "content/about/bibliography/index.md",
+    "content/about/index.md",
     "public/tags/qdx/index.xml",
     "public/tags/qdx/index.html",
     "public/tags/qdx",
@@ -194,10 +200,6 @@
     "public/tags/licensing",
     "public/tags/general-class/index.xml",
     "public/tags/general-class/index.html",
-    "public/tags/general-class",
-    "public/posts/2026-04-general/index.html",
-    "content/about/index.md",
-    "content/about/bibliography/index.md",
     "content/about/links/index.md",
     "content/about/bibliography.md",
     "content/posts/2026-04-mobile/index.md",
@@ -228,7 +230,6 @@
     "content/posts/2026-03-goals/index.md",
     "content/posts/ai/index.md",
     "content/posts/goals/index.md",
-    "content/posts/hugo/index.md",
-    "content/posts/argh/index.md"
+    "content/posts/hugo/index.md"
   ]
 }
