@@ -78,6 +78,7 @@ defaultContentLanguage = "en"
   [params.admonitions]
     alertStyle = "favicon"
 
+
   [params.umami]
     # Set your Umami website ID for page tracking
     websiteId = "c40c542a-c8da-42e2-9e46-2ed3b821043d"

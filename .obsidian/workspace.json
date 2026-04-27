@@ -185,6 +185,7 @@
   },
   "active": "24c1dca307f7625a",
   "lastOpenFiles": [
+    "hugo.toml.save",
     "content/posts/2026-04-general/index.md",
     "content/posts/2026-04-getting-started-with-amateur-radio-repeaters/index.md",
     "content/posts/2026-04-getting-started-with-repeaters/index.md",
@@ -229,7 +230,6 @@
     "content/posts/2026-03-first-post/index.md",
     "content/posts/2026-03-goals/index.md",
     "content/posts/ai/index.md",
-    "content/posts/goals/index.md",
-    "content/posts/hugo/index.md"
+    "content/posts/goals/index.md"
   ]
 }
