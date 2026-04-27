@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-04-getting-started-with-amateur-radio-repeaters/index.md",
+                "file": "content/about/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.5
   },
   "right": {
     "id": "43b379b56d10cbce",

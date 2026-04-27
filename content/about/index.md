@@ -15,6 +15,7 @@ Amateur radio is a new interest. I passed my Technician exam in February 2026 an
 Other hobbies include: writing (mostly genre fiction), knitting (crochet is dark sorcery), zines (the closest I get to paper craft), D&D (currently alternating in two campaigns where I play a mildly broken Druid and a Psi Warrior), and board games (takes a long pull on my cigarette and begins to tell the kids about how we used to play Settlers of Catan with a friend's translation of the German). Maybe one day I'll get back into folk dance or even karate, but I'm not up for either at the moment.
 # Organizations
 [Alliance Amateur Radio Network](https://allianceamateur.org)  
+[Narwhal Amateur Radio Society](https://nars.narwhal.be)    
 [Phil-Mont Mobile Radio Club](https://www.phil-mont.org)  
 [Young Ladies Radio League](https://ylrl.net)
 # Socials

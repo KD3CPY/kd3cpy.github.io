@@ -2,7 +2,7 @@
 date = '2026-04-21'
 draft = false
 title = 'License upgrade'
-tags = ['ham radio', 'amateur radio', 'general class', 'licensing', 'qdx',  'goals']
+tags = ['ham radio', 'amateur radio', 'general class', 'licensing', 'QDX',  'goals']
 author = 'KD3CPY'
 +++
 
