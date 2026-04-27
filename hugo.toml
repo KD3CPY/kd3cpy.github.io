@@ -78,6 +78,11 @@ defaultContentLanguage = "en"
   [params.admonitions]
     alertStyle = "favicon"
 
+[params]
+  [params.umami]
+    # Set your Umami website ID for page tracking
+    websiteId = "c40c542a-c8da-42e2-9e46-2ed3b821043d"
+
 # Single language: use root-level menus. No [languages] block needed.
 [[menus.main]]
   name = "Home"
