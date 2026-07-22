@@ -6,7 +6,7 @@ title = 'About'
 Call sign: KD3CPY  
 License: General  
 Grid square: FN20kb  
-QSL: QRZ, LoTW
+QSL: QRZ, LoTW, eQSL
 # About me
 I (Megan, she/her) live in the suburbs of Philadelphia along with the spouse, kids, and dogs. I have an academic background in the humanities (specifically history) which has actually been relevant for some of the jobs I've held in the past. I've also been a professional webmonkey and data wrangler, which was more on the self-taught, fell-into-it side of things.
 
