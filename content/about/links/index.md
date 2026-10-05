@@ -15,6 +15,7 @@ Every day, some piece of the internet enshittifies a little more. We just can't 
 [Jeff Golas](https://www.junknet.net) KC3GJX  
 [Ron Schwartz](https://ve3vn.blogspot.com) VE3VN  
 [Troy Fisher](https://tdot.fish) KD3BTG  
+[Paula Pridalova](https://paulayl.blog) OK2YL
 [Victoria Yanovich](https://k8vsy.radio) K8VSY  
 # Webrings
 **[Fediverse.Radio Webring](https://ring.fediverse.radio)**  
